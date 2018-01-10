@@ -1,0 +1,4624 @@
+1	
+2	
+3	
+4	
+5	
+6	
+7	
+8	
+9		
+10	
+
+11	
+12	
+13	
+14	
+15	
+16	
+17	
+18	
+19	
+20	
+21	
+22	
+23	
+24	
+25	
+26	
+27	
+28	
+29	
+30	
+31	
+32	 
+33	!
+34	"
+35	#
+36	$
+37	%
+38	&
+39	'
+40	(
+41	)
+42	*
+43	+
+44	,
+45	-
+46	.
+47	/
+48	0
+49	1
+50	2
+51	3
+52	4
+53	5
+54	6
+55	7
+56	8
+57	9
+58	:
+59	;
+60	<
+61	=
+62	>
+63	?
+64	@
+65	A
+66	B
+67	C
+68	D
+69	E
+70	F
+71	G
+72	H
+73	I
+74	J
+75	K
+76	L
+77	M
+78	N
+79	O
+80	P
+81	Q
+82	R
+83	S
+84	T
+85	U
+86	V
+87	W
+88	X
+89	Y
+90	Z
+91	[
+92	\
+93	]
+94	^
+95	_
+96	`
+97	a
+98	b
+99	c
+100	d
+101	e
+102	f
+103	g
+104	h
+105	i
+106	j
+107	k
+108	l
+109	m
+110	n
+111	o
+112	p
+113	q
+114	r
+115	s
+116	t
+117	u
+118	v
+119	w
+120	x
+121	y
+122	z
+123	{
+124	|
+125	}
+126	~
+127	
+128	
+129	
+130	
+131	
+132	
+133	
+134	
+135	
+136	
+137	
+138	
+139	
+140	
+141	
+142	
+143	
+144	
+145	
+146	
+147	
+148	
+149	
+150	
+151	
+152	
+153	
+154	
+155	
+156	
+157	
+158	
+159	
+160	 
+161	¡
+162	¢
+163	£
+164	¤
+165	¥
+166	¦
+167	§
+168	¨
+169	©
+170	ª
+171	«
+172	¬
+173	­
+174	®
+175	¯
+176	°
+177	±
+178	²
+179	³
+180	´
+181	µ
+182	¶
+183	·
+184	¸
+185	¹
+186	º
+187	»
+188	¼
+189	½
+190	¾
+191	¿
+192	À
+193	Á
+194	Â
+195	Ã
+196	Ä
+197	Å
+198	Æ
+199	Ç
+200	È
+201	É
+202	Ê
+203	Ë
+204	Ì
+205	Í
+206	Î
+207	Ï
+208	Ð
+209	Ñ
+210	Ò
+211	Ó
+212	Ô
+213	Õ
+214	Ö
+215	×
+216	Ø
+217	Ù
+218	Ú
+219	Û
+220	Ü
+221	Ý
+222	Þ
+223	ß
+224	à
+225	á
+226	â
+227	ã
+228	ä
+229	å
+230	æ
+231	ç
+232	è
+233	é
+234	ê
+235	ë
+236	ì
+237	í
+238	î
+239	ï
+240	ð
+241	ñ
+242	ò
+243	ó
+244	ô
+245	õ
+246	ö
+247	÷
+248	ø
+249	ù
+250	ú
+251	û
+252	ü
+253	ý
+254	þ
+255	ÿ
+256	At
+257	t 
+258	 t
+259	th
+260	he
+261	e 
+262	 a
+263	ag
+264	ge
+265	e o
+266	of
+267	f 
+268	 1
+269	12
+270	2,
+271	, 
+272	 S
+273	Sa
+274	ar
+275	ra
+276	ah
+277	h 
+278	 T
+279	Th
+280	ho
+281	om
+282	ma
+283	as
+284	s 
+285	 f
+286	fo
+287	ou
+288	un
+289	nd
+290	d 
+291	 o
+292	out
+293	t t
+294	tha
+295	at
+296	t h
+297	her
+298	r 
+299	 fa
+300	ath
+301	her 
+302	 -
+303	- 
+304	 w
+305	wh
+306	ho 
+307	 s
+308	sh
+309	he'
+310	'd
+311	d n
+312	ne
+313	ev
+314	ve
+315	er
+316	r k
+317	kn
+318	no
+319	ow
+320	wn
+321	n 
+322	 - 
+323	 wa
+324	as 
+325	 a 
+326	 R
+327	Ro
+328	oma
+329	an
+330	n C
+331	Ca
+332	atho
+333	ol
+334	li
+335	ic
+336	c 
+337	 p
+338	pr
+339	ri
+340	ie
+341	es
+342	st
+343	t.
+344	. 
+345	 Sh
+346	he 
+347	 th
+348	hen
+349	n s
+350	sp
+351	pe
+352	en
+353	nt
+354	t y
+355	ye
+356	ea
+357	ars
+358	s t
+359	tr
+360	ry
+361	yi
+362	in
+363	ng
+364	g 
+365	 to
+366	o 
+367	 e
+368	est
+369	ta
+370	ab
+371	bl
+372	lis
+373	sh 
+374	 a r
+375	re
+376	el
+377	la
+378	ati
+379	io
+380	on
+381	ns
+382	shi
+383	ip
+384	p 
+385	 wi
+386	it
+387	th 
+388	 h
+389	hi
+390	im
+391	m.
+392	. I
+393	It
+394	t to
+395	oo
+396	ok
+397	k 
+398	 a n
+399	nea
+400	ar-
+401	-d
+402	de
+403	eat
+404	th e
+405	ex
+406	xp
+407	per
+408	rie
+409	enc
+410	ce
+411	e f
+412	for
+413	r h
+414	her t
+415	to
+416	o o
+417	ov
+418	ver
+419	rc
+420	co
+421	ome
+422	e t
+423	the
+424	e s
+425	sc
+426	ca
+427	ars 
+428	 of
+429	f h
+430	his
+431	s r
+432	rej
+433	je
+434	ec
+435	ct
+436	ti
+437	ion
+438	n.
+439	.S
+440	Sar
+441	rah
+442	h T
+443	Tho
+444	omas
+445	s w
+446	wa
+447	as b
+448	br
+449	ro
+450	oug
+451	gh
+452	ht
+453	t u
+454	up
+455	p b
+456	by
+457	y 
+458	 he
+459	er 
+460	 m
+461	mo
+462	ot
+463	ther
+464	r i
+465	in 
+466	 a h
+467	hou
+468	us
+469	si
+470	ing
+471	g a
+472	ass
+473	so
+474	oc
+475	ci
+476	ia
+477	atio
+478	on 
+479	 fl
+480	lat
+481	t w
+482	wi
+483	ith
+484	h a
+485	a 
+486	 flo
+487	owe
+488	er-
+489	-f
+490	fi
+491	il
+492	ll
+493	le
+494	ed
+495	d b
+496	ba
+497	al
+498	lc
+499	con
+500	ny
+501	y o
+502	on a
+503	an 
+504	 es
+505	sta
+506	ate
+507	e i
+508	in s
+509	sou
+510	ut
+511	th-
+512	-e
+513	eas
+514	st 
+515	 L
+516	Lo
+517	ond
+518	do
+519	on.
+520	. A
+521	Al
+522	lt
+523	tho
+524	ough
+525	h t
+526	they
+527	y w
+528	we
+529	ere
+530	e h
+531	ha
+532	ard
+533	d-
+534	-u
+535	up,
+536	, S
+537	Sara
+538	ah 
+539	 r
+540	rem
+541	me
+542	em
+543	mb
+544	be
+545	ers
+546	s i
+547	it 
+548	 as
+549	s a
+550	a h
+551	hap
+552	pp
+553	py
+554	y c
+555	ch
+556	hil
+557	ld
+558	dh
+559	hoo
+560	od
+561	d,
+562	, p
+563	pu
+564	unc
+565	ctu
+566	ua
+567	ated
+568	d by
+569	y b
+570	bi
+571	ir
+572	rt
+573	thd
+574	da
+575	ay
+576	ys
+577	s,
+578	, C
+579	Ch
+580	hr
+581	ris
+582	stm
+583	mas
+584	se
+585	es 
+586	 an
+587	nd 
+588	 c
+589	chu
+590	ur
+591	rch
+592	h o
+593	on S
+594	Su
+595	und
+596	day
+597	ys.
+598	.B
+599	Bu
+600	ut 
+601	 as 
+602	 sh
+603	he g
+604	gr
+605	rew
+606	w 
+607	 ol
+608	lde
+609	er S
+610	Sarah
+611	h b
+612	beg
+613	ga
+614	an t
+615	to 
+616	 n
+617	not
+618	tic
+619	ce 
+620	 tha
+621	at 
+622	 her
+623	r f
+624	fa
+625	am
+626	mi
+627	ily
+628	y wa
+629	as d
+630	di
+631	if
+632	ff
+633	fe
+634	eren
+635	nt.
+636	. E
+637	Ev
+638	very
+639	yo
+640	one
+641	e e
+642	els
+643	se 
+644	 she
+645	e k
+646	kne
+647	ew
+648	w s
+649	spe
+650	ent
+651	t ti
+652	ime
+653	e w
+654	wit
+655	th t
+656	thei
+657	ir 
+658	 fat
+659	thers
+660	s e
+661	eve
+662	en 
+663	 i
+664	if 
+665	 the
+666	ei
+667	ir p
+668	pa
+669	are
+670	ents
+671	s we
+672	ere 
+673	 d
+674	div
+675	vo
+676	or
+677	rce
+678	ed,
+679	, s
+680	so 
+681	 wh
+682	hy
+683	y d
+684	did
+685	dn
+686	n'
+687	't
+688	t s
+689	she
+690	e?
+691	? 
+692	 She
+693	e d
+694	didn
+695	n't
+696	t e
+697	even
+698	n k
+699	kno
+700	ow 
+701	 who
+702	o h
+703	her f
+704	fat
+705	ther 
+706	 was
+707	s.
+708	.H
+709	He
+710	er m
+711	mot
+712	ther e
+713	event
+714	tu
+715	ual
+716	lly
+717	y t
+718	tol
+719	ld 
+720	 Sa
+721	ara
+722	ah t
+723	that
+724	t he
+725	e wa
+726	as a
+727	a u
+728	uni
+729	iv
+730	vers
+731	sit
+732	ty
+733	y l
+734	lec
+735	ctur
+736	rer
+737	r.
+738	."
+739	"B
+740	But
+741	t I
+742	I 
+743	 j
+744	ju
+745	ust
+746	t ha
+747	ad
+748	d a
+749	a f
+750	fee
+751	eli
+752	ing 
+753	 that
+754	t th
+755	here
+756	e was
+757	s s
+758	som
+759	met
+760	thi
+761	ing I
+762	I w
+763	was
+764	sn
+765	n't 
+766	 b
+767	bei
+768	ing t
+769	told
+770	d.
+771	. W
+772	Wh
+773	hy 
+774	 was 
+775	 it
+776	t a
+777	all
+778	l 
+779	 su
+780	uc
+781	ch 
+782	 a b
+783	big
+784	g s
+785	sec
+786	cr
+787	ret
+788	t?
+789	?"
+790	" 
+791	 Sar
+792	rah 
+793	 sa
+794	ays
+795	s.I
+796	In
+797	n 1
+798	19
+799	99
+800	90
+801	0,
+802	, w
+803	whe
+804	en S
+805	Sarah 
+806	 was 1
+807	12,
+808	, h
+809	her m
+810	moth
+811	her fi
+812	ina
+813	ally
+814	y to
+815	old
+816	d h
+817	her th
+818	he t
+819	tru
+820	uth
+821	h.
+822	. H
+823	Her
+824	r fa
+825	athe
+826	er w
+827	wasn
+828	n't a
+829	a l
+830	lect
+831	tur
+832	rer 
+833	 - h
+834	he w
+835	was 
+836	 a R
+837	Rom
+838	man
+839	n Ca
+840	athol
+841	lic
+842	c p
+843	pri
+844	ies
+845	st,
+846	, l
+847	liv
+848	vi
+849	ing a
+850	and
+851	d w
+852	wo
+853	ork
+854	ki
+855	ing i
+856	in L
+857	Lon
+858	ndo
+859	on."
+860	"I
+861	I j
+862	jus
+863	st s
+864	sa
+865	ai
+866	id
+867	d, 
+868	 '
+869	'T
+870	Tha
+871	at'
+872	's
+873	s f
+874	fan
+875	nta
+876	ast
+877	tic!
+878	! 
+879	 I
+880	I'
+881	'm
+882	m 
+883	 sur
+884	re 
+885	 he'
+886	'd 
+887	 l
+888	lik
+889	ke
+890	e to
+891	o m
+892	mee
+893	et
+894	t m
+895	me,
+896	,'
+897	'"
+898	" S
+899	Sarah s
+900	say
+901	ys. 
+902	 H
+903	Her 
+904	 mo
+905	oth
+906	her w
+907	wasn'
+908	't 
+909	 so
+910	o s
+911	su
+912	ure
+913	e.
+914	.Sa
+915	arah
+916	h'
+917	's 
+918	 pa
+919	aren
+920	nts
+921	s m
+922	met 
+923	 whi
+924	ile
+925	e th
+926	hey
+927	y we
+928	ere b
+929	bo
+930	oth 
+931	 ma
+932	atu
+933	ure 
+934	 st
+935	tud
+936	den
+937	nts 
+938	 in
+939	n 19
+940	97
+941	70
+942	0s
+943	s L
+944	Lond
+945	don
+946	n. 
+947	 Th
+948	hey 
+949	 ha
+950	ad 
+951	 be
+952	ee
+953	en t
+954	tog
+955	get
+956	ther f
+957	for 
+958	 ab
+959	bou
+960	ut t
+961	tw
+962	wo 
+963	 y
+964	yea
+965	ars w
+966	when
+967	n,
+968	, a
+969	at t
+970	the 
+971	 ag
+972	ge 
+973	 of 
+974	 3
+975	34
+976	4,
+977	, Sa
+978	arah'
+979	's m
+980	mothe
+981	er f
+982	fel
+983	ll 
+984	 pr
+985	reg
+986	gn
+987	na
+988	ant
+989	t."
+990	"S
+991	Sh
+992	he wa
+993	as de
+994	ef
+995	fin
+996	ni
+997	ite
+998	ely
+999	y i
+1000	in l
+1001	lo
+1002	ove
+1003	e wi
+1004	ith 
+1005	 hi
+1006	im 
+1007	 and
+1008	d s
+1009	she 
+1010	 tho
+1011	ought
+1012	t he 
+1013	 lo
+1014	oved
+1015	d he
+1016	er,
+1017	,"
+1018	" Sa
+1019	arah 
+1020	 say
+1021	ys.H
+1022	Her m
+1023	mother
+1024	r ho
+1025	op
+1026	ped
+1027	d t
+1028	that 
+1029	 her 
+1030	 lov
+1031	ver 
+1032	 wo
+1033	oul
+1034	ld g
+1035	gi
+1036	ive
+1037	e u
+1038	up 
+1039	 his
+1040	s st
+1041	tudi
+1042	ies 
+1043	 and 
+1044	 mar
+1045	rr
+1046	ry 
+1047	 her.
+1048	. S
+1049	She
+1050	e was 
+1051	 li
+1052	ivi
+1053	ing in
+1054	n a
+1055	a s
+1056	stu
+1057	ud
+1058	dent
+1059	t f
+1060	fl
+1061	lat 
+1062	 wit
+1063	th tw
+1064	wo f
+1065	fr
+1066	rien
+1067	nds
+1068	s wh
+1069	ho w
+1070	wer
+1071	re a
+1072	als
+1073	so d
+1074	dat
+1075	tin
+1076	ng 
+1077	 tr
+1078	rai
+1079	ine
+1080	ee 
+1081	 pri
+1082	iest
+1083	ts
+1084	s, 
+1085	 and a
+1086	at l
+1087	lea
+1088	ast 
+1089	 on
+1090	ne 
+1091	 of t
+1092	the m
+1093	men
+1094	n h
+1095	had
+1096	d d
+1097	dec
+1098	cid
+1099	ded
+1100	d l
+1101	lov
+1102	ve 
+1103	 too
+1104	ok 
+1105	 prio
+1106	ori
+1107	ity
+1108	y ov
+1109	ver t
+1110	the p
+1111	prie
+1112	esth
+1113	hood
+1114	d.B
+1115	But 
+1116	 Sara
+1117	ah'
+1118	's f
+1119	fath
+1120	her wa
+1121	as h
+1122	hor
+1123	rri
+1124	ifi
+1125	ied
+1126	d wh
+1127	hen 
+1128	 he 
+1129	 fo
+1130	oun
+1131	nd o
+1132	out 
+1133	 abo
+1134	out t
+1135	the pr
+1136	regn
+1137	nan
+1138	nc
+1139	cy
+1140	y.
+1141	. He
+1142	e en
+1143	nde
+1144	ed 
+1145	 the 
+1146	 re
+1147	ela
+1148	ation
+1149	nsh
+1150	hip
+1151	p t
+1152	that d
+1153	day 
+1154	 and n
+1155	nev
+1156	ver s
+1157	spo
+1158	oke
+1159	e to 
+1160	 Sarah
+1161	h's
+1162	s mo
+1163	othe
+1164	er a
+1165	aga
+1166	ain
+1167	n o
+1168	on h
+1169	his 
+1170	 ow
+1171	wn 
+1172	 - o
+1173	onl
+1174	ly
+1175	y in
+1176	n t
+1177	the pre
+1178	ese
+1179	ence
+1180	e of
+1181	f a
+1182	ano
+1183	other
+1184	r r
+1185	rep
+1186	pre
+1187	esen
+1188	ntat
+1189	tiv
+1190	ve o
+1191	of 
+1192	 the c
+1193	chur
+1194	rch.
+1195	.A
+1196	A 
+1197	 se
+1198	eni
+1199	ior
+1200	r p
+1201	pries
+1202	st su
+1203	ug
+1204	gg
+1205	ges
+1206	ste
+1207	ed t
+1208	to S
+1209	Sarah'
+1210	's mo
+1211	other 
+1212	 that 
+1213	 she 
+1214	 g
+1215	go
+1216	o a
+1217	aw
+1218	way
+1219	y to 
+1220	 sta
+1221	ay 
+1222	 by
+1223	y th
+1224	he s
+1225	sea
+1226	a un
+1227	nti
+1228	il 
+1229	 the b
+1230	bab
+1231	by 
+1232	 ar
+1233	rriv
+1234	ved
+1235	d an
+1236	nd t
+1237	then
+1238	n g
+1239	giv
+1240	ve i
+1241	it u
+1242	up f
+1243	for a
+1244	ado
+1245	opt
+1246	tio
+1247	on,
+1248	, b
+1249	bu
+1250	ut S
+1251	Sarah's
+1252	s mot
+1253	ther r
+1254	ref
+1255	fu
+1256	use
+1257	ed.
+1258	."S
+1259	So
+1260	o t
+1261	this
+1262	s p
+1263	priest
+1264	t d
+1265	deci
+1266	ide
+1267	ed th
+1268	hat
+1269	t my
+1270	y f
+1271	fathe
+1272	er c
+1273	cou
+1274	ul
+1275	ld c
+1276	car
+1277	rry
+1278	y on
+1279	n an
+1280	nd b
+1281	bec
+1282	com
+1283	me 
+1284	 a p
+1285	priest,
+1286	," 
+1287	 Sarah 
+1288	 says
+1289	s, "
+1290	"a
+1291	as l
+1292	lon
+1293	ng a
+1294	as m
+1295	my
+1296	y m
+1297	mother 
+1298	 and t
+1299	the c
+1300	chi
+1301	ild
+1302	d -
+1303	- m
+1304	me -
+1305	- w
+1306	were
+1307	e in
+1308	n c
+1309	cah
+1310	hoot
+1311	ts 
+1312	 with
+1313	h th
+1314	hei
+1315	ir pl
+1316	lan
+1317	n of
+1318	f s
+1319	secr
+1320	rec
+1321	cy.
+1322	."T
+1323	Thi
+1324	is
+1325	s is
+1326	s why
+1327	y S
+1328	Sarah w
+1329	was t
+1330	told 
+1331	 no
+1332	othi
+1333	ing ab
+1334	bout
+1335	t her
+1336	r fat
+1337	ther a
+1338	as s
+1339	she w
+1340	was g
+1341	gro
+1342	owi
+1343	ing u
+1344	up.
+1345	. L
+1346	La
+1347	ater
+1348	r S
+1349	Sarah l
+1350	lear
+1351	rn
+1352	ned
+1353	d th
+1354	hat 
+1355	 he h
+1356	had 
+1357	 oc
+1358	cc
+1359	cas
+1360	sio
+1361	ona
+1362	ally 
+1363	 sen
+1364	nt 
+1365	 her m
+1366	mother m
+1367	mon
+1368	ney
+1369	y."
+1370	"Bu
+1371	ut th
+1372	he m
+1373	mone
+1374	ey
+1375	y was
+1376	s o
+1377	oft
+1378	te
+1379	en a
+1380	ac
+1381	cco
+1382	omp
+1383	pan
+1384	nie
+1385	ed b
+1386	by l
+1387	let
+1388	tt
+1389	ter
+1390	rs
+1391	s re
+1392	ein
+1393	nf
+1394	forc
+1395	cin
+1396	ng t
+1397	the n
+1398	nee
+1399	ed f
+1400	for s
+1401	secre
+1402	ecy
+1403	y,
+1404	, sa
+1405	ayi
+1406	ing th
+1407	hin
+1408	ngs
+1409	s l
+1410	like
+1411	e,
+1412	, '
+1413	'I
+1414	If
+1415	f y
+1416	you
+1417	u 
+1418	 ev
+1419	ver ta
+1420	alk
+1421	k a
+1422	abo
+1423	out th
+1424	his o
+1425	or 
+1426	 id
+1427	denti
+1428	ify
+1429	y h
+1430	him
+1431	m a
+1432	as t
+1433	the f
+1434	father
+1435	r t
+1436	then 
+1437	 the m
+1438	money
+1439	y wi
+1440	ill
+1441	l s
+1442	sto
+1443	op.
+1444	.'
+1445	'" 
+1446	 O
+1447	On
+1448	nce
+1449	e S
+1450	Sarah h
+1451	had e
+1452	exp
+1453	pres
+1454	ss
+1455	sed
+1456	d a 
+1457	 wis
+1458	sh t
+1459	to m
+1460	meet
+1461	t her 
+1462	 fath
+1463	her,
+1464	, t
+1465	thou
+1466	ugh
+1467	h,
+1468	, he
+1469	er mo
+1470	other s
+1471	star
+1472	rte
+1473	ed w
+1474	wr
+1475	rit
+1476	ting
+1477	g t
+1478	to h
+1479	him 
+1480	 to 
+1481	 pe
+1482	ersu
+1483	uad
+1484	de 
+1485	 him
+1486	m t
+1487	to a
+1488	agr
+1489	ree
+1490	e. 
+1491	 A
+1492	An
+1493	nd tw
+1494	wo y
+1495	year
+1496	rs 
+1497	 la
+1498	ater,
+1499	, he 
+1500	 di
+1501	id.
+1502	."I
+1503	In 
+1504	 my
+1505	y n
+1506	nai
+1507	ivet
+1508	ty,
+1509	, f
+1510	fro
+1511	om 
+1512	 wat
+1513	tc
+1514	chin
+1515	ng c
+1516	cha
+1517	at s
+1518	sho
+1519	ows
+1520	s whe
+1521	ere p
+1522	peo
+1523	opl
+1524	le 
+1525	 who 
+1526	 hav
+1527	ven
+1528	n't e
+1529	ever
+1530	r m
+1531	met r
+1532	ru
+1533	un 
+1534	 tow
+1535	war
+1536	rd
+1537	ds
+1538	s ea
+1539	ach
+1540	h ot
+1541	ther an
+1542	nd s
+1543	start
+1544	t c
+1545	cry
+1546	yin
+1547	ng an
+1548	nd th
+1549	hen t
+1550	they'
+1551	'r
+1552	re f
+1553	fri
+1554	ien
+1555	nds 
+1556	 for
+1557	r e
+1558	ever 
+1559	 and e
+1560	ever -
+1561	- t
+1562	that'
+1563	's h
+1564	how
+1565	w m
+1566	my 
+1567	 fr
+1568	riend
+1569	ds 
+1570	 and I
+1571	I h
+1572	had t
+1573	thoug
+1574	ght
+1575	t i
+1576	it w
+1577	wou
+1578	uld
+1579	d be
+1580	e,"
+1581	" Sar
+1582	rah r
+1583	reme
+1584	emb
+1585	ber
+1586	rs.
+1587	.Sh
+1588	he was
+1589	s ex
+1590	xc
+1591	cit
+1592	ted
+1593	d ab
+1594	bout 
+1595	 the me
+1596	eet
+1597	ting 
+1598	 and w
+1599	wor
+1600	re h
+1601	her fa
+1602	av
+1603	vou
+1604	uri
+1605	ite 
+1606	 tu
+1607	urq
+1608	qu
+1609	uo
+1610	oi
+1611	ise
+1612	e a
+1613	and 
+1614	 whit
+1615	te 
+1616	 ti
+1617	ie-
+1618	-dy
+1619	ye 
+1620	 je
+1621	ean
+1622	ns 
+1623	 fro
+1624	om C
+1625	Cam
+1626	md
+1627	den 
+1628	 M
+1629	Ma
+1630	ark
+1631	ket
+1632	t."I
+1633	I wi
+1634	ill 
+1635	 al
+1636	lw
+1637	ways
+1638	s rem
+1639	mem
+1640	mbe
+1641	er t
+1642	them
+1643	m,
+1644	," s
+1645	she s
+1646	says
+1647	s, "I
+1648	I f
+1649	felt
+1650	t so
+1651	o aw
+1652	wk
+1653	kw
+1654	ward
+1655	d, I
+1656	I s
+1657	spen
+1658	nt a
+1659	a lo
+1660	ot 
+1661	 of ti
+1662	ime 
+1663	 in 
+1664	 the mee
+1665	eti
+1666	ing j
+1667	just
+1668	t l
+1669	loo
+1670	oki
+1671	ing at
+1672	t my 
+1673	 k
+1674	knee
+1675	es.
+1676	."H
+1677	Her f
+1678	father 
+1679	 had
+1680	d br
+1681	rou
+1682	ught
+1683	t a 
+1684	 C
+1685	Cat
+1686	thol
+1687	lic 
+1688	 co
+1689	ouns
+1690	sel
+1691	llo
+1692	or w
+1693	with
+1694	h h
+1695	him a
+1696	and S
+1697	Sarah,
+1698	, wh
+1699	ho wa
+1700	as by
+1701	y no
+1702	ow 1
+1703	14
+1704	4, 
+1705	 was a
+1706	acc
+1707	comp
+1708	pani
+1709	ied 
+1710	 by 
+1711	 the h
+1712	hu
+1713	usb
+1714	ban
+1715	nd of
+1716	f o
+1717	one 
+1718	 of h
+1719	her s
+1720	sch
+1721	hool
+1722	l t
+1723	tea
+1724	ache
+1725	ers,
+1726	, an
+1727	n ar
+1728	rra
+1729	ang
+1730	gem
+1731	ment
+1732	t tha
+1733	at c
+1734	compl
+1735	lete
+1736	ely 
+1737	 fai
+1738	iled
+1739	d to
+1740	o p
+1741	put
+1742	t her a
+1743	at e
+1744	ease
+1745	e. "
+1746	"I'
+1747	'd g
+1748	grow
+1749	wn u
+1750	up w
+1751	witho
+1752	out a
+1753	a fa
+1754	ather
+1755	r-
+1756	-fi
+1757	ig
+1758	gu
+1759	ure i
+1760	in m
+1761	my l
+1762	lif
+1763	fe 
+1764	 so 
+1765	 I 
+1766	 wasn
+1767	n't t
+1768	that c
+1769	comf
+1770	fort
+1771	tab
+1772	ble
+1773	e wit
+1774	th m
+1775	men 
+1776	 and I 
+1777	 did
+1778	dn'
+1779	't r
+1780	rea
+1781	ally k
+1782	know
+1783	w h
+1784	how 
+1785	 to r
+1786	reac
+1787	ct 
+1788	 to t
+1789	them,
+1790	," S
+1791	Sarah sa
+1792	ays.
+1793	. "
+1794	"I 
+1795	 cou
+1796	uld 
+1797	 har
+1798	rdl
+1799	ly 
+1800	 sp
+1801	pea
+1802	ak
+1803	k d
+1804	du
+1805	ue
+1806	e to n
+1807	ner
+1808	rv
+1809	ves
+1810	s, a
+1811	all 
+1812	 the q
+1813	que
+1814	esti
+1815	ions
+1816	s I
+1817	I'd
+1818	d bee
+1819	en p
+1820	pl
+1821	lann
+1822	nin
+1823	ng to
+1824	o as
+1825	sk
+1826	k e
+1827	eva
+1828	ap
+1829	po
+1830	ora
+1831	ated.
+1832	." 
+1833	 She 
+1834	 rem
+1835	memb
+1836	bers
+1837	s h
+1838	her fat
+1839	ther'
+1840	's e
+1841	eye
+1842	es,
+1843	, whi
+1844	ich
+1845	h r
+1846	rema
+1847	aine
+1848	ed fi
+1849	ix
+1850	xe
+1851	ed o
+1852	on he
+1853	er th
+1854	hro
+1855	ougho
+1856	out the
+1857	e m
+1858	meeti
+1859	ing,
+1860	, hi
+1861	is 
+1862	 ca
+1863	asu
+1864	ual 
+1865	 cl
+1866	lot
+1867	thes
+1868	s whi
+1869	ich 
+1870	 didn
+1871	n't l
+1872	look
+1873	k at
+1874	t al
+1875	ll p
+1876	priestl
+1877	ly,
+1878	, his
+1879	s sh
+1880	hort
+1881	t g
+1882	gre
+1883	ey 
+1884	 hai
+1885	ir.
+1886	."I 
+1887	 we
+1888	ent 
+1889	 in t
+1890	there
+1891	e thi
+1892	ink
+1893	kin
+1894	ng w
+1895	we 
+1896	 wer
+1897	re g
+1898	goi
+1899	ing to
+1900	o b
+1901	be 
+1902	 bes
+1903	st f
+1904	frie
+1905	end
+1906	ds,
+1907	, bu
+1908	ut h
+1909	he was 
+1910	 v
+1911	very 
+1912	 alo
+1913	oof
+1914	f an
+1915	nd c
+1916	col
+1917	ld,
+1918	," sh
+1919	he r
+1920	remem
+1921	mber
+1922	rs. 
+1923	  
+1924	 The
+1925	e l
+1926	las
+1927	st t
+1928	thin
+1929	ng S
+1930	Sarah's 
+1931	 fathe
+1932	er s
+1933	sai
+1934	id 
+1935	 to h
+1936	her tha
+1937	at d
+1938	day w
+1939	was th
+1940	hat h
+1941	he wo
+1942	ould
+1943	dn't
+1944	t b
+1945	be a
+1946	abl
+1947	le t
+1948	to s
+1949	see
+1950	e he
+1951	er ag
+1952	gai
+1953	in f
+1954	for f
+1955	fou
+1956	ur 
+1957	 ye
+1958	ear
+1959	rs.  
+1960	 "
+1961	"Be
+1962	efo
+1963	ore
+1964	e we
+1965	e'
+1966	'd m
+1967	met I
+1968	I'd 
+1969	 thou
+1970	ught,
+1971	, 'W
+1972	We
+1973	ell
+1974	l,
+1975	, o
+1976	of c
+1977	cour
+1978	rse
+1979	e, 
+1980	 he'l
+1981	ll l
+1982	love
+1983	e me
+1984	e,'
+1985	'" s
+1986	she sa
+1987	ays. 
+1988	 "S
+1989	So 
+1990	 whe
+1991	en h
+1992	he d
+1993	did 
+1994	 me
+1995	eet 
+1996	 me 
+1997	 and th
+1998	he o
+1999	outc
+2000	come
+2001	e was t
+2002	that w
+2003	we s
+2004	sti
+2005	ill w
+2006	weren
+2007	n't g
+2008	goin
+2009	ng to 
+2010	 have
+2011	e an
+2012	ny 
+2013	 ki
+2014	ind
+2015	d o
+2016	of r
+2017	rel
+2018	lati
+2019	ionsh
+2020	hip,
+2021	, th
+2022	hat r
+2023	real
+2024	lly 
+2025	 hu
+2026	urt
+2027	t."C
+2028	Co
+2029	opi
+2030	ing In
+2031	nte
+2032	ern
+2033	nat
+2034	tion
+2035	nal
+2036	l i
+2037	is a
+2038	an o
+2039	org
+2040	gan
+2041	nis
+2042	sat
+2043	tion 
+2044	 that p
+2045	pro
+2046	omo
+2047	ote
+2048	es t
+2049	the w
+2050	wel
+2051	ll-
+2052	-b
+2053	bein
+2054	ng o
+2055	of ch
+2056	hild
+2057	dr
+2058	ren
+2059	n of 
+2060	 Ca
+2061	atholi
+2062	ic 
+2063	 P
+2064	Pr
+2065	ries
+2066	sts
+2067	s an
+2068	nd the
+2069	eir
+2070	r pa
+2071	arent
+2072	ts.
+2073	. It
+2074	t ca
+2075	an of
+2076	ffe
+2077	er su
+2078	upp
+2079	por
+2080	rt 
+2081	 and ad
+2082	dv
+2083	vic
+2084	ce i
+2085	if y
+2086	you 
+2087	 have 
+2088	 bee
+2089	en af
+2090	ffec
+2091	cte
+2092	ed by
+2093	y the
+2094	e is
+2095	ssu
+2096	ues
+2097	s ra
+2098	ais
+2099	sed 
+2100	 here
+2101	e.L
+2102	Loo
+2103	okin
+2104	ng b
+2105	bac
+2106	ck
+2107	k,
+2108	, Sar
+2109	rah s
+2110	sees
+2111	s th
+2112	hat f
+2113	fir
+2114	rst
+2115	t me
+2116	eeti
+2117	ing w
+2118	with 
+2119	 her f
+2120	father a
+2121	as a 
+2122	 tur
+2123	rni
+2124	ing p
+2125	poi
+2126	int
+2127	t in
+2128	n he
+2129	er l
+2130	life
+2131	e. S
+2132	She 
+2133	 sto
+2134	opp
+2135	ped 
+2136	 try
+2137	ying
+2138	g h
+2139	har
+2140	rd 
+2141	 at
+2142	t sc
+2143	cho
+2144	ool
+2145	l a
+2146	and r
+2147	rememb
+2148	bers 
+2149	 bu
+2150	urs
+2151	stin
+2152	ng i
+2153	into
+2154	o te
+2155	ears
+2156	s at
+2157	t ina
+2158	app
+2159	prop
+2160	pria
+2161	ate 
+2162	 mom
+2163	ments
+2164	s.H
+2165	Her d
+2166	dia
+2167	ary
+2168	y e
+2169	entr
+2170	ries 
+2171	 from
+2172	m th
+2173	he ti
+2174	ime a
+2175	are 
+2176	 ang
+2177	gry
+2178	y a
+2179	and u
+2180	unh
+2181	happ
+2182	py.
+2183	."Th
+2184	here 
+2185	 was al
+2186	lwa
+2187	ays 
+2188	 som
+2189	meth
+2190	hing
+2191	g at
+2192	t the
+2193	e b
+2194	back
+2195	k o
+2196	of m
+2197	my m
+2198	min
+2199	nd,
+2200	, te
+2201	elli
+2202	ing m
+2203	me I
+2204	I wa
+2205	as w
+2206	wort
+2207	thl
+2208	les
+2209	ss,
+2210	," she
+2211	e sa
+2212	ays.A
+2213	Af
+2214	ft
+2215	ter 
+2216	 si
+2217	ixt
+2218	th f
+2219	form
+2220	m, 
+2221	 Sarah e
+2222	enr
+2223	rol
+2224	lle
+2225	ed on
+2226	n a 
+2227	 fou
+2228	unda
+2229	ation 
+2230	 cour
+2231	rse 
+2232	 at 
+2233	 art
+2234	t co
+2235	oll
+2236	leg
+2237	ge,
+2238	, m
+2239	mov
+2240	vin
+2241	ng in
+2242	nto
+2243	o a 
+2244	 sha
+2245	ared
+2246	d ho
+2247	ous
+2248	se i
+2249	in so
+2250	outh
+2251	h L
+2252	Londo
+2253	on w
+2254	with a
+2255	a g
+2256	grou
+2257	up o
+2258	of f
+2259	frien
+2260	nds.
+2261	. Sh
+2262	he th
+2263	hre
+2264	ew 
+2265	 hers
+2266	self
+2267	f i
+2268	into 
+2269	 par
+2270	rty
+2271	ying,
+2272	, i
+2273	in t
+2274	the h
+2275	hop
+2276	pe 
+2277	 of m
+2278	mak
+2279	king
+2280	g he
+2281	erse
+2282	elf
+2283	f f
+2284	feel
+2285	l g
+2286	goo
+2287	od 
+2288	 and c
+2289	compe
+2290	ens
+2291	sati
+2292	ing f
+2293	for h
+2294	her l
+2295	low
+2296	w se
+2297	elf-
+2298	-es
+2299	stee
+2300	em.
+2301	. She
+2302	e li
+2303	ived
+2304	d i
+2305	in th
+2306	he mo
+2307	omen
+2308	nt an
+2309	nd w
+2310	was u
+2311	una
+2312	able
+2313	e to m
+2314	make
+2315	e p
+2316	pla
+2317	ans
+2318	s fo
+2319	or t
+2320	the fu
+2321	utu
+2322	ure.
+2323	. Her
+2324	r c
+2325	cl
+2326	loth
+2327	hes
+2328	s b
+2329	beca
+2330	ame
+2331	e ba
+2332	agg
+2333	gy
+2334	y be
+2335	eca
+2336	au
+2337	use 
+2338	 she w
+2339	was e
+2340	eati
+2341	ing s
+2342	so l
+2343	lit
+2344	ttl
+2345	le.
+2346	.Sar
+2347	rah sa
+2348	aw 
+2349	 her fa
+2350	ather 
+2351	 a c
+2352	coup
+2353	ple
+2354	e of 
+2355	 tim
+2356	mes
+2357	s ov
+2358	ver th
+2359	he f
+2360	fol
+2361	llow
+2362	win
+2363	ng y
+2364	years
+2365	s. 
+2366	 He
+2367	e al
+2368	lway
+2369	ys 
+2370	 ins
+2371	sis
+2372	sted
+2373	d on
+2374	n m
+2375	meetin
+2376	ng in 
+2377	 a ba
+2378	ar 
+2379	 or
+2380	r hot
+2381	tel
+2382	l, 
+2383	 far
+2384	r a
+2385	awa
+2386	ay f
+2387	from
+2388	m w
+2389	wher
+2390	re he
+2391	e liv
+2392	ved,
+2393	, whil
+2394	le s
+2395	she t
+2396	tri
+2397	ied h
+2398	hard
+2399	d to 
+2400	 pro
+2401	ovo
+2402	oke 
+2403	 a pa
+2404	atern
+2405	nal 
+2406	 rea
+2407	act
+2408	tion i
+2409	in h
+2410	him.
+2411	."I g
+2412	gav
+2413	ve h
+2414	him b
+2415	boo
+2416	oks
+2417	s ab
+2418	bout f
+2419	fam
+2420	mil
+2421	ly r
+2422	rela
+2423	ations
+2424	ship
+2425	ps
+2426	s,"
+2427	" s
+2428	she say
+2429	ys. "
+2430	"I e
+2431	even 
+2432	 ga
+2433	ave
+2434	e hi
+2435	im a
+2436	an a
+2437	alb
+2438	bum
+2439	m o
+2440	of p
+2441	ph
+2442	hot
+2443	tos
+2444	s of
+2445	f m
+2446	me f
+2447	from 
+2448	 when
+2449	n I
+2450	I was
+2451	s a 
+2452	 ba
+2453	aby
+2454	y u
+2455	unt
+2456	til
+2457	l th
+2458	hat a
+2459	age
+2460	e tr
+2461	ryi
+2462	ing to 
+2463	 say:
+2464	: 
+2465	 'L
+2466	Look
+2467	k!
+2468	! I
+2469	I'm
+2470	m y
+2471	your
+2472	r d
+2473	dau
+2474	ughte
+2475	er, 
+2476	 loo
+2477	ok a
+2478	at th
+2479	hese
+2480	e pi
+2481	ict
+2482	ture
+2483	es, 
+2484	 they
+2485	y'
+2486	're
+2487	e c
+2488	cu
+2489	ute
+2490	e.'
+2491	'" B
+2492	But S
+2493	Sarah d
+2494	didn'
+2495	't g
+2496	get 
+2497	 the r
+2498	res
+2499	spon
+2500	nse
+2501	e sh
+2502	he c
+2503	cra
+2504	aved
+2505	d."
+2506	"I j
+2507	just 
+2508	 ne
+2509	ever f
+2510	felt 
+2511	 go
+2512	ood
+2513	d, I 
+2514	 nev
+2515	ver f
+2516	felt l
+2517	loved
+2518	d and
+2519	d I
+2520	I n
+2521	neve
+2522	er fe
+2523	elt
+2524	t li
+2525	ik
+2526	ke 
+2527	 I u
+2528	unde
+2529	erst
+2530	too
+2531	od t
+2532	the s
+2533	situ
+2534	uat
+2535	tion,
+2536	," she 
+2537	 says.
+2538	.I
+2539	In e
+2540	earl
+2541	ly 1
+2542	199
+2543	98
+2544	8,
+2545	, af
+2546	fte
+2547	er a 
+2548	 fe
+2549	ew p
+2550	par
+2551	rti
+2552	icu
+2553	ula
+2554	arl
+2555	ly h
+2556	hea
+2557	avy
+2558	y da
+2559	ays o
+2560	of cl
+2561	lu
+2562	ub
+2563	bb
+2564	bin
+2565	ng,
+2566	, Sara
+2567	ah a
+2568	and a
+2569	a fr
+2570	riend 
+2571	 de
+2572	eci
+2573	ided
+2574	d to u
+2575	use t
+2576	their
+2577	r s
+2578	stud
+2579	dent 
+2580	 loa
+2581	ans 
+2582	 to f
+2583	fly
+2584	y to T
+2585	Te
+2586	ene
+2587	eri
+2588	ife
+2589	e on
+2590	n ho
+2591	oli
+2592	ida
+2593	ay.
+2594	."B
+2595	By
+2596	y thi
+2597	is p
+2598	poin
+2599	nt I
+2600	I was 
+2601	 ve
+2602	ery
+2603	y, 
+2604	 ver
+2605	ry t
+2606	thin,
+2607	, I
+2608	I'd s
+2609	stop
+2610	ppe
+2611	ed l
+2612	looki
+2613	ing af
+2614	fter
+2615	r my
+2616	yse
+2617	elf 
+2618	 to s
+2619	suc
+2620	ch a
+2621	an e
+2622	ext
+2623	ten
+2624	nt t
+2625	that I
+2626	I ju
+2627	ust 
+2628	 didn'
+2629	't e
+2630	eat 
+2631	 any
+2632	yt
+2633	thing
+2634	g d
+2635	dur
+2636	rin
+2637	ng th
+2638	hat ho
+2639	olid
+2640	day,
+2641	," she s
+2642	says.
+2643	.O
+2644	One
+2645	e mo
+2646	orn
+2647	ning
+2648	g w
+2649	whi
+2650	ile 
+2651	 tryi
+2652	ing to g
+2653	get b
+2654	back 
+2655	 to th
+2656	heir
+2657	r hote
+2658	el 
+2659	 af
+2660	fter 
+2661	 a ni
+2662	igh
+2663	ht 
+2664	 ou
+2665	ut,
+2666	, Sarah
+2667	h s
+2668	sl
+2669	lip
+2670	pped
+2671	d f
+2672	from t
+2673	the e
+2674	edg
+2675	ge o
+2676	of a
+2677	a m
+2678	mou
+2679	unta
+2680	ain 
+2681	 ro
+2682	oa
+2683	ad,
+2684	, and
+2685	d fe
+2686	ell 
+2687	 a l
+2688	long
+2689	g wa
+2690	ay b
+2691	bef
+2692	fore
+2693	e la
+2694	andi
+2695	ing o
+2696	on c
+2697	conc
+2698	cre
+2699	ete
+2700	e. Sh
+2701	he re
+2702	eme
+2703	embe
+2704	ers 
+2705	 the s
+2706	sir
+2707	rens
+2708	s, t
+2709	the st
+2710	tre
+2711	etc
+2712	che
+2713	er b
+2714	being
+2715	g p
+2716	pus
+2717	shed
+2718	d u
+2719	under
+2720	r he
+2721	er bo
+2722	ody
+2723	y, s
+2724	some
+2725	eth
+2726	hing 
+2727	 bei
+2728	ing fi
+2729	itt
+2730	ted 
+2731	 aro
+2732	ound
+2733	d her
+2734	r n
+2735	nec
+2736	ck.
+2737	. B
+2738	But s
+2739	sur
+2740	rp
+2741	pris
+2742	sin
+2743	ngl
+2744	ly s
+2745	she wa
+2746	asn
+2747	n't i
+2748	in a
+2749	any
+2750	y p
+2751	pai
+2752	in.
+2753	. In
+2754	nst
+2755	tead
+2756	d sh
+2757	he fe
+2758	elt 
+2759	 com
+2760	mp
+2761	plet
+2762	tely
+2763	y at
+2764	t p
+2765	peac
+2766	ce,
+2767	, bl
+2768	liss
+2769	sf
+2770	ful
+2771	lly h
+2772	happy
+2773	y, u
+2774	upl
+2775	lift
+2776	ted.
+2777	."I w
+2778	was a
+2779	ali
+2780	ive 
+2781	 but
+2782	t aw
+2783	way 
+2784	 from 
+2785	 my 
+2786	 bo
+2787	ody,
+2788	," she sa
+2789	ays. "
+2790	"It
+2791	t wa
+2792	as am
+2793	maz
+2794	zi
+2795	ing, 
+2796	 I c
+2797	coul
+2798	ldn
+2799	n't ev
+2800	ver r
+2801	remembe
+2802	er fee
+2803	elin
+2804	ng be
+2805	ett
+2806	ter.
+2807	."Sh
+2808	he rem
+2809	membe
+2810	ers f
+2811	feeli
+2812	ing as
+2813	s tho
+2814	ough 
+2815	 she wa
+2816	as be
+2817	eing
+2818	g dr
+2819	raw
+2820	wn up
+2821	pw
+2822	wards
+2823	s ou
+2824	ut o
+2825	of h
+2826	her b
+2827	bod
+2828	dy
+2829	y an
+2830	nd to
+2831	owa
+2832	ards
+2833	s a s
+2834	soo
+2835	othin
+2836	ng, 
+2837	 br
+2838	rig
+2839	ght 
+2840	 lig
+2841	ght,
+2842	, but
+2843	t the 
+2844	 ex
+2845	xpe
+2846	erie
+2847	ence 
+2848	 was s
+2849	sud
+2850	dd
+2851	denl
+2852	ly c
+2853	cut
+2854	t sh
+2855	hort 
+2856	 when 
+2857	 a d
+2858	doc
+2859	cto
+2860	or s
+2861	starte
+2862	ed s
+2863	shou
+2864	uti
+2865	ing h
+2866	her n
+2867	nam
+2868	me a
+2869	and h
+2870	hit
+2871	tti
+2872	ing he
+2873	er h
+2874	han
+2875	nd.
+2876	."I t
+2877	trie
+2878	ed to
+2879	o i
+2880	ign
+2881	nor
+2882	re her
+2883	r,
+2884	," Sa
+2885	arah s
+2886	says. 
+2887	 "I
+2888	I k
+2889	knew
+2890	w I
+2891	I was d
+2892	dyi
+2893	ing an
+2894	nd sh
+2895	he was t
+2896	try
+2897	ying 
+2898	 to b
+2899	bri
+2900	ing me
+2901	e bac
+2902	ck."
+2903	" T
+2904	The
+2905	e lig
+2906	ght d
+2907	dis
+2908	sap
+2909	ppea
+2910	ared,
+2911	, the
+2912	e wo
+2913	onde
+2914	erf
+2915	ful 
+2916	 fee
+2917	eling
+2918	gs
+2919	s be
+2920	eg
+2921	gan 
+2922	 to sl
+2923	lip 
+2924	 aw
+2925	way a
+2926	and t
+2927	the pa
+2928	ain k
+2929	kic
+2930	cke
+2931	ed i
+2932	in. 
+2933	 Sarah c
+2934	could
+2935	dn't 
+2936	 mov
+2937	ve m
+2938	mos
+2939	st o
+2940	of he
+2941	er bod
+2942	dy 
+2943	 and o
+2944	one o
+2945	of her
+2946	r ar
+2947	rm
+2948	ms
+2949	s wa
+2950	as ben
+2951	ndi
+2952	ing the
+2953	e wr
+2954	ron
+2955	ng wa
+2956	ay. 
+2957	  T
+2958	The 
+2959	 do
+2960	oct
+2961	tor
+2962	rs t
+2963	tele
+2964	ep
+2965	pho
+2966	oned
+2967	d S
+2968	Sarah's m
+2969	mother i
+2970	in Lo
+2971	ondo
+2972	on an
+2973	nd tol
+2974	ld h
+2975	her to
+2976	o c
+2977	come 
+2978	 as q
+2979	qui
+2980	ick
+2981	kl
+2982	ly a
+2983	as sh
+2984	he co
+2985	ould.
+2986	."M
+2987	Mu
+2988	um
+2989	m the
+2990	en ph
+2991	hon
+2992	ned 
+2993	 my f
+2994	father an
+2995	nd sa
+2996	aid
+2997	d, '
+2998	'S
+2999	Sarah m
+3000	mig
+3001	ght di
+3002	ie,
+3003	, c
+3004	come o
+3005	over
+3006	r,'
+3007	'" S
+3008	Sarah say
+3009	ys. "B
+3010	But h
+3011	he j
+3012	just s
+3013	said
+3014	d no
+3015	o.
+3016	." T
+3017	The b
+3018	bro
+3019	oken
+3020	n arm
+3021	m wa
+3022	as th
+3023	he l
+3024	leas
+3025	st of
+3026	f S
+3027	Sarah's i
+3028	inj
+3029	jur
+3030	ries.
+3031	. She 
+3032	 had 
+3033	 thr
+3034	ree 
+3035	 sk
+3036	ku
+3037	ull
+3038	l f
+3039	fra
+3040	actu
+3041	ures
+3042	s, i
+3043	inte
+3044	erna
+3045	al 
+3046	 bl
+3047	lee
+3048	edi
+3049	ing in 
+3050	 her h
+3051	head
+3052	d, a
+3053	a c
+3054	coll
+3055	lap
+3056	pse
+3057	ed lu
+3058	ung
+3059	g an
+3060	nd l
+3061	live
+3062	er tr
+3063	rau
+3064	uma
+3065	a.
+3066	. Af
+3067	fter t
+3068	two
+3069	o w
+3070	wee
+3071	ek
+3072	ks
+3073	s in
+3074	n hos
+3075	spi
+3076	ita
+3077	al i
+3078	in the
+3079	e C
+3080	Can
+3081	nar
+3082	ry I
+3083	Is
+3084	sla
+3085	ands
+3086	s, s
+3087	she was
+3088	s tr
+3089	ran
+3090	nsf
+3091	fer
+3092	rre
+3093	ed to 
+3094	 a ho
+3095	os
+3096	spit
+3097	tal
+3098	l in
+3099	n L
+3100	London
+3101	n.S
+3102	Sarah T
+3103	Thom
+3104	mas 
+3105	 spo
+3106	oke t
+3107	to H
+3108	Hu
+3109	ugh 
+3110	 Co
+3111	ost
+3112	tell
+3113	lo 
+3114	 as p
+3115	part
+3116	t o
+3117	of hi
+3118	is d
+3119	docu
+3120	ume
+3121	enta
+3122	ary 
+3123	 for 
+3124	 the B
+3125	BB
+3126	BC
+3127	C 
+3128	 W
+3129	Wo
+3130	orl
+3131	ld S
+3132	Se
+3133	erv
+3134	vice
+3135	e's
+3136	s H
+3137	Hea
+3138	art
+3139	t an
+3140	nd S
+3141	Sou
+3142	ul 
+3143	 prog
+3144	gra
+3145	amm
+3146	meY
+3147	Yo
+3148	ou 
+3149	 can
+3150	n l
+3151	list
+3152	ten 
+3153	 to H
+3154	Hear
+3155	rt a
+3156	and So
+3157	oul:
+3158	: M
+3159	My
+3160	y F
+3161	Fa
+3162	ather t
+3163	the P
+3164	Pri
+3165	iest 
+3166	 on 
+3167	 the BB
+3168	BC 
+3169	 iP
+3170	Pl
+3171	lay
+3172	yer
+3173	rB
+3174	But a
+3175	alt
+3176	though
+3177	h sh
+3178	he ca
+3179	ame 
+3180	 clo
+3181	ose
+3182	e to d
+3183	dea
+3184	ath 
+3185	 and s
+3186	spent
+3187	t mo
+3188	ont
+3189	ths
+3190	s rec
+3191	cov
+3192	veri
+3193	ing fr
+3194	rom
+3195	m h
+3196	her i
+3197	inju
+3198	urie
+3199	es, S
+3200	Sarah says
+3201	s the
+3202	e ac
+3203	cci
+3204	iden
+3205	nt w
+3206	was the
+3207	e be
+3208	est 
+3209	 thi
+3210	ing tha
+3211	at co
+3212	ould 
+3213	 have h
+3214	happe
+3215	ened
+3216	d to h
+3217	her.
+3218	.It
+3219	t was
+3220	s ano
+3221	other t
+3222	turn
+3223	ning 
+3224	 po
+3225	oin
+3226	nt."
+3227	"I'v
+3228	ve g
+3229	got
+3230	t a b
+3231	befo
+3232	ore-
+3233	-l
+3234	life 
+3235	 and an
+3236	n af
+3237	fter-
+3238	-li
+3239	ife,
+3240	, and 
+3241	 I r
+3242	reali
+3243	ised
+3244	d I 
+3245	 didn't
+3246	t hav
+3247	ve t
+3248	to p
+3249	play
+3250	y this
+3251	s g
+3252	gam
+3253	me w
+3254	with m
+3255	my f
+3256	father any
+3257	y mo
+3258	ore,
+3259	," she say
+3260	ys. "I
+3261	It 
+3262	 was h
+3263	his d
+3264	decis
+3265	sion
+3266	n to
+3267	o n
+3268	not 
+3269	 be 
+3270	 part
+3271	t of
+3272	f my
+3273	y li
+3274	ife, 
+3275	 but 
+3276	 I d
+3277	didn't
+3278	t wan
+3279	nt to
+3280	o f
+3281	feel 
+3282	 that s
+3283	sen
+3284	nse 
+3285	 of r
+3286	reje
+3287	ect
+3288	tion o
+3289	on a 
+3290	 da
+3291	ail
+3292	ly b
+3293	bas
+3294	sis.
+3295	." S
+3296	Sarah t
+3297	thr
+3298	rew 
+3299	 herse
+3300	elf i
+3301	into s
+3302	study
+3303	ying, 
+3304	 tra
+3305	avel
+3306	l, a
+3307	and w
+3308	work
+3309	k.
+3310	. She w
+3311	wen
+3312	nt o
+3313	on t
+3314	to ma
+3315	arr
+3316	ry a
+3317	and n
+3318	now
+3319	w,
+3320	, at
+3321	t the a
+3322	age 
+3323	 of 4
+3324	40
+3325	0, 
+3326	 has
+3327	s thr
+3328	ree c
+3329	chil
+3330	ldr
+3331	ren 
+3332	 age
+3333	ed 1
+3334	11
+3335	1,
+3336	, n
+3337	nine
+3338	e and
+3339	d fo
+3340	our
+3341	r. 
+3342	 She'
+3343	's t
+3344	tryi
+3345	ing to b
+3346	be as
+3347	s op
+3348	pen
+3349	n as
+3350	s po
+3351	oss
+3352	sib
+3353	ble 
+3354	 with 
+3355	 them
+3356	m ab
+3357	bout t
+3358	their 
+3359	 gr
+3360	rand
+3361	df
+3362	father.
+3363	."I'
+3364	'v
+3365	ve to
+3366	old 
+3367	 them 
+3368	 he's
+3369	s a p
+3370	priest, 
+3371	 he w
+3372	works
+3373	s in 
+3374	 Lo
+3375	ondon
+3376	n, 
+3377	 he's 
+3378	 not
+3379	t a f
+3380	fami
+3381	ily 
+3382	 per
+3383	rso
+3384	on and
+3385	d he 
+3386	 pu
+3387	uts
+3388	s hi
+3389	is w
+3390	work 
+3391	 fi
+3392	irs
+3393	st,"
+3394	" sh
+3395	he sa
+3396	ays.I
+3397	In 2
+3398	20
+3399	01
+3400	15
+3401	5 
+3402	 Sarah s
+3403	stum
+3404	mbl
+3405	led
+3406	d ac
+3407	cro
+3408	oss 
+3409	 the w
+3410	web
+3411	bs
+3412	site
+3413	e of C
+3414	Cop
+3415	pi
+3416	ing Int
+3417	tern
+3418	nati
+3419	iona
+3420	al,
+3421	, a 
+3422	 sel
+3423	lf
+3424	f-
+3425	-h
+3426	hel
+3427	lp
+3428	p o
+3429	orga
+3430	ani
+3431	isa
+3432	ation f
+3433	for t
+3434	the ch
+3435	hildr
+3436	ren o
+3437	of C
+3438	Cath
+3439	hol
+3440	lic p
+3441	priests
+3442	s and
+3443	d the
+3444	eir 
+3445	 pare
+3446	ents.
+3447	."It
+3448	t was 
+3449	 lik
+3450	ke b
+3451	being 
+3452	 hit
+3453	t by
+3454	y a 
+3455	 thu
+3456	underb
+3457	bol
+3458	lt,
+3459	, I 
+3460	 lit
+3461	tera
+3462	ally t
+3463	thought
+3464	t I 
+3465	 was t
+3466	the o
+3467	only
+3468	y pr
+3469	riest
+3470	t ch
+3471	hild 
+3472	 in th
+3473	he wor
+3474	rl
+3475	ld,"
+3476	" she
+3477	e say
+3478	ys. S
+3479	She'
+3480	's n
+3481	now 
+3482	 doi
+3483	ing a 
+3484	 Ph
+3485	hD
+3486	D 
+3487	 on t
+3488	the su
+3489	ubj
+3490	jec
+3491	ct a
+3492	at the
+3493	e O
+3494	Op
+3495	pen 
+3496	 U
+3497	Un
+3498	niv
+3499	versi
+3500	ity.
+3501	."I'm
+3502	m d
+3503	doi
+3504	ing thi
+3505	is t
+3506	to hi
+3507	ighl
+3508	lig
+3509	ght t
+3510	that t
+3511	there 
+3512	 are
+3513	e tho
+3514	ousa
+3515	ands 
+3516	 of c
+3517	child
+3518	dre
+3519	en o
+3520	of pr
+3521	riests
+3522	s ar
+3523	roun
+3524	nd the 
+3525	 wor
+3526	rld
+3527	d and 
+3528	 no-
+3529	-o
+3530	one k
+3531	knows
+3532	s abo
+3533	out them
+3534	m,"
+3535	" she 
+3536	 says. 
+3537	 "T
+3538	They
+3539	y ar
+3540	re p
+3541	pow
+3542	werl
+3543	less
+3544	s and 
+3545	 they'
+3546	're 
+3547	 at t
+3548	the me
+3549	erc
+3550	cy 
+3551	 of th
+3552	his i
+3553	ins
+3554	stit
+3555	tut
+3556	tion a
+3557	and th
+3558	hat'
+3559	's j
+3560	just n
+3561	not r
+3562	righ
+3563	ht.
+3564	." Th
+3565	hrou
+3566	ugh h
+3567	her me
+3568	ento
+3569	orin
+3570	ng wo
+3571	ork 
+3572	 with C
+3573	Copi
+3574	ing Inte
+3575	ernat
+3576	tiona
+3577	al a
+3578	and he
+3579	er P
+3580	Ph
+3581	hD 
+3582	 res
+3583	sear
+3584	rch 
+3585	 Sarah n
+3586	now k
+3587	knows 
+3588	 abou
+3589	ut 1
+3590	10
+3591	00
+3592	0 
+3593	 peo
+3594	ople
+3595	e wh
+3596	ho h
+3597	hav
+3598	ve b
+3599	bee
+3600	en f
+3601	fathere
+3602	ed by 
+3603	 prie
+3604	ests
+3605	s, f
+3606	from c
+3607	coun
+3608	ntr
+3609	ries a
+3610	all o
+3611	over 
+3612	 the wo
+3613	orld
+3614	d, b
+3615	but
+3616	t be
+3617	elie
+3618	eves
+3619	s ther
+3620	re ar
+3621	re t
+3622	thous
+3623	san
+3624	nds m
+3625	mor
+3626	re o
+3627	out ther
+3628	re.
+3629	. She s
+3630	says 
+3631	 it'
+3632	's s
+3633	str
+3634	rik
+3635	king 
+3636	 that t
+3637	there a
+3638	are s
+3639	so m
+3640	many
+3641	y co
+3642	omm
+3643	mon 
+3644	 fea
+3645	atur
+3646	res 
+3647	 to the
+3648	eir e
+3649	expe
+3650	erien
+3651	nces
+3652	s."
+3653	"Se
+3654	ecr
+3655	recy
+3656	y al
+3657	lways
+3658	s c
+3659	comes
+3660	s u
+3661	up -
+3662	- l
+3663	lots
+3664	s of 
+3665	 peop
+3666	ple 
+3667	 ta
+3668	alk 
+3669	 about
+3670	t bei
+3671	ing e
+3672	enco
+3673	oura
+3674	aged
+3675	d to l
+3676	lie
+3677	e to k
+3678	kee
+3679	ep 
+3680	 thei
+3681	ir f
+3682	fathers
+3683	s a se
+3684	ecre
+3685	et,
+3686	," Sar
+3687	rah say
+3688	ys. "L
+3689	Lac
+3690	ck 
+3691	 of i
+3692	ident
+3693	tit
+3694	ty 
+3695	 is
+3696	s co
+3697	ommo
+3698	on to
+3699	oo,
+3700	, and t
+3701	the co
+3702	onf
+3703	fid
+3704	dentia
+3705	alit
+3706	ty a
+3707	agre
+3708	eem
+3709	ments 
+3710	 - w
+3711	whet
+3712	ther o
+3713	off
+3714	fic
+3715	cia
+3716	al o
+3717	or v
+3718	verb
+3719	bal
+3720	l -
+3721	- a
+3722	are q
+3723	quit
+3724	te c
+3725	comm
+3726	mon t
+3727	too,
+3728	, and th
+3729	he p
+3730	pay
+3731	ym
+3732	ments.
+3733	." H
+3734	Ha
+3735	avi
+3736	ing b
+3737	been
+3738	n b
+3739	brou
+3740	ught 
+3741	 u
+3742	up a
+3743	a C
+3744	Catho
+3745	olic
+3746	c,
+3747	, Sarah 
+3748	 has 
+3749	 str
+3750	rug
+3751	ggl
+3752	led 
+3753	 to u
+3754	unders
+3755	stan
+3756	nd wh
+3757	hy i
+3758	it'
+3759	's a
+3760	acce
+3761	ept
+3762	tabl
+3763	le f
+3764	for he
+3765	er fa
+3766	ather,
+3767	, a m
+3768	man 
+3769	 who p
+3770	prea
+3771	aches
+3772	s abou
+3773	ut the
+3774	e im
+3775	mpo
+3776	ort
+3777	tan
+3778	nce 
+3779	 of f
+3780	famil
+3781	ly an
+3782	nd lo
+3783	ovi
+3784	ing y
+3785	your 
+3786	 nei
+3787	ighb
+3788	bour
+3789	r, 
+3790	 to be
+3791	eh
+3792	have
+3793	e in 
+3794	 a co
+3795	ompl
+3796	letel
+3797	ly o
+3798	oppo
+3799	osi
+3800	ite w
+3801	way i
+3802	in hi
+3803	is pr
+3804	riv
+3805	va
+3806	ate l
+3807	life.
+3808	."If
+3809	f a 
+3810	 gro
+3811	oup
+3812	p of
+3813	f t
+3814	teac
+3815	cher
+3816	rs d
+3817	decid
+3818	ded 
+3819	 to re
+3820	ej
+3821	ject
+3822	t thei
+3823	ir c
+3824	childr
+3825	ren b
+3826	becau
+3827	use th
+3828	hey s
+3829	said 
+3830	 they 
+3831	 had a
+3832	a ca
+3833	alli
+3834	ing fro
+3835	om G
+3836	Go
+3837	od,
+3838	, or
+3839	r j
+3840	just b
+3841	becaus
+3842	se t
+3843	they 
+3844	 wan
+3845	nted
+3846	d to d
+3847	do 
+3848	 mor
+3849	re w
+3850	work,
+3851	, tha
+3852	at w
+3853	woul
+3854	ldn'
+3855	't b
+3856	be O
+3857	OK
+3858	K 
+3859	 - s
+3860	so i
+3861	it's
+3862	s n
+3863	not O
+3864	OK 
+3865	 that th
+3866	his is
+3867	s bei
+3868	ing al
+3869	llowe
+3870	ed,"
+3871	" she s
+3872	says.A
+3873	A s
+3874	spok
+3875	kes
+3876	sper
+3877	rson
+3878	n f
+3879	for th
+3880	he C
+3881	Cathol
+3882	lic B
+3883	Bi
+3884	ish
+3885	hops
+3886	s'
+3887	' 
+3888	 Con
+3889	nfe
+3890	erenc
+3891	ce o
+3892	of E
+3893	En
+3894	ngla
+3895	and an
+3896	nd W
+3897	Wa
+3898	ale
+3899	es s
+3900	says:
+3901	: "
+3902	"In
+3903	n su
+3904	uch
+3905	h c
+3906	cir
+3907	rcu
+3908	ums
+3909	stanc
+3910	ces
+3911	s, w
+3912	whic
+3913	ch ar
+3914	re s
+3915	so p
+3916	pers
+3917	son
+3918	nal a
+3919	and p
+3920	parti
+3921	icul
+3922	lar
+3923	r, e
+3924	every
+3925	y bi
+3926	isho
+3927	op 
+3928	 in E
+3929	Eng
+3930	gl
+3931	land
+3932	d and W
+3933	Wal
+3934	les 
+3935	 wou
+3936	uld w
+3937	wan
+3938	nt to 
+3939	 dis
+3940	sce
+3941	ern 
+3942	 the be
+3943	est w
+3944	ways 
+3945	 in w
+3946	which
+3947	h i
+3948	it i
+3949	is po
+3950	ossi
+3951	ib
+3952	ble f
+3953	for the
+3954	e fa
+3955	ather o
+3956	of a 
+3957	 ch
+3958	hild,
+3959	, who
+3960	o is
+3961	s a pr
+3962	riest,
+3963	, to
+3964	o fu
+3965	ulf
+3966	fil
+3967	l h
+3968	his r
+3969	resp
+3970	pon
+3971	nsi
+3972	ibi
+3973	ili
+3974	iti
+3975	ies.
+3976	..
+3977	.. 
+3978	 E
+3979	Eve
+3980	ery 
+3981	 bi
+3982	ishop
+3983	p i
+3984	in E
+3985	Engl
+3986	land 
+3987	 and W
+3988	Wale
+3989	es i
+3990	is wi
+3991	illi
+3992	ing to m
+3993	meet 
+3994	 anyo
+3995	one i
+3996	in thei
+3997	ir d
+3998	dio
+3999	oce
+4000	ese 
+4001	 whos
+4002	se f
+4003	father i
+4004	is a 
+4005	 pries
+4006	st.
+4007	."Sa
+4008	arah b
+4009	bel
+4010	liev
+4011	ves 
+4012	 the C
+4013	Catholi
+4014	ic c
+4015	churc
+4016	ch -
+4017	- wh
+4018	hic
+4019	ch f
+4020	forb
+4021	bid
+4022	ds p
+4023	priests 
+4024	 to m
+4025	mar
+4026	rry 
+4027	 or 
+4028	 have s
+4029	sex
+4030	x 
+4031	 - sh
+4032	houl
+4033	ld m
+4034	make 
+4035	 cle
+4036	eric
+4037	cal
+4038	l c
+4039	cel
+4040	lib
+4041	bacy
+4042	y op
+4043	pt
+4044	tional
+4045	l.
+4046	."C
+4047	Chi
+4048	ildr
+4049	ren w
+4050	wil
+4051	ll c
+4052	cont
+4053	tinu
+4054	ue 
+4055	 to su
+4056	uf
+4057	ffer
+4058	r an
+4059	nd p
+4060	priests w
+4061	will
+4062	l co
+4063	onti
+4064	inu
+4065	ue t
+4066	to hid
+4067	de t
+4068	their c
+4069	childre
+4070	en u
+4071	unti
+4072	il i
+4073	it's 
+4074	 mad
+4075	de o
+4076	opti
+4077	ional
+4078	l,"
+4079	" Sara
+4080	ah s
+4081	says. "
+4082	"If
+4083	f it
+4084	t was o
+4085	optio
+4086	onal
+4087	l it
+4088	t wo
+4089	ould p
+4090	prob
+4091	babl
+4092	ly he
+4093	elp
+4094	p l
+4095	lots 
+4096	 of fu
+4097	utur
+4098	re pr
+4099	riests'
+4100	' c
+4101	children
+4102	n to 
+4103	 have m
+4104	mu
+4105	uch 
+4106	 hap
+4107	ppi
+4108	ier
+4109	r re
+4110	elat
+4111	tions
+4112	ships
+4113	s wi
+4114	ith t
+4115	their f
+4116	fathers,
+4117	, and f
+4118	for the 
+4119	 men
+4120	n to h
+4121	have 
+4122	 le
+4123	ess
+4124	s gu
+4125	ui
+4126	ilt
+4127	t and
+4128	d sha
+4129	ame a
+4130	abou
+4131	ut ha
+4132	avin
+4133	ng r
+4134	relat
+4135	tionsh
+4136	hips
+4137	s wit
+4138	th th
+4139	heir 
+4140	 own
+4141	n ch
+4142	hildre
+4143	en.
+4144	." Sa
+4145	arah's
+4146	s fa
+4147	ather i
+4148	is i
+4149	in his
+4150	s 7
+4151	70s
+4152	s no
+4153	ow.
+4154	. T
+4155	They 
+4156	 no 
+4157	 lon
+4158	nge
+4159	er me
+4160	eet.
+4161	. Sa
+4162	arah w
+4163	wri
+4164	ites
+4165	s to
+4166	o hi
+4167	im o
+4168	occ
+4169	casi
+4170	ionall
+4171	ly and
+4172	d he s
+4173	send
+4174	ds m
+4175	money 
+4176	 for h
+4177	her c
+4178	children'
+4179	's b
+4180	bir
+4181	rth
+4182	hd
+4183	days
+4184	s bu
+4185	ut s
+4186	she d
+4187	doe
+4188	esn
+4189	n't h
+4190	hold
+4191	d ou
+4192	ut a
+4193	any 
+4194	 ho
+4195	ope
+4196	e tha
+4197	at the 
+4198	 sit
+4199	tua
+4200	ation b
+4201	bet
+4202	twe
+4203	een
+4204	n th
+4205	hem
+4206	m wi
+4207	ill i
+4208	imp
+4209	prov
+4210	ve.
+4211	. "W
+4212	Whe
+4213	en s
+4214	someo
+4215	one c
+4216	cons
+4217	sist
+4218	tent
+4219	tl
+4220	ly p
+4221	puts
+4222	s thei
+4223	ir o
+4224	own
+4225	n n
+4226	need
+4227	ds b
+4228	befor
+4229	re y
+4230	yours
+4231	s -
+4232	- th
+4233	heir c
+4234	child 
+4235	 - y
+4236	you'
+4237	're a
+4238	alw
+4239	ways w
+4240	won
+4241	nder
+4242	ring
+4243	g i
+4244	if yo
+4245	ou'
+4246	're g
+4247	going
+4248	g to
+4249	o g
+4250	get h
+4251	hur
+4252	rt ag
+4253	gain
+4254	n."
+4255	"But
+4256	t com
+4257	ming
+4258	g c
+4259	clo
+4260	ose 
+4261	 to d
+4262	deat
+4263	th g
+4264	gave
+4265	e Sa
+4266	arah a
+4267	a n
+4268	new
+4269	w p
+4270	persp
+4271	pec
+4272	cti
+4273	ive o
+4274	on her
+4275	r rel
+4276	latio
+4277	ons
+4278	ship 
+4279	 with h
+4280	her fath
+4281	her."
+4282	"Bei
+4283	ing c
+4284	consc
+4285	cio
+4286	ous 
+4287	 and v
+4288	very m
+4289	muc
+4290	ch al
+4291	ler
+4292	rt an
+4293	nd a
+4294	awak
+4295	ke a
+4296	away
+4297	y fr
+4298	rom 
+4299	 my b
+4300	body
+4301	y af
+4302	fter m
+4303	my a
+4304	acci
+4305	ident 
+4306	 con
+4307	nfi
+4308	irm
+4309	med
+4310	d to m
+4311	me t
+4312	that we
+4313	e do
+4314	o go
+4315	o on
+4316	n,"
+4317	" Sarah
+4318	h sa
+4319	ays. "I
+4320	I'm 
+4321	 not 
+4322	 rel
+4323	ligi
+4324	iou
+4325	us,
+4326	, but 
+4327	 may
+4328	yb
+4329	be o
+4330	one d
+4331	day, 
+4332	 aft
+4333	ter w
+4334	we b
+4335	bot
+4336	th d
+4337	die
+4338	e, m
+4339	may
+4340	ybe
+4341	e the
+4342	en w
+4343	we'
+4344	'l
+4345	ll b
+4346	be c
+4347	clos
+4348	ser
+4349	r. W
+4350	Who
+4351	o k
+4352	knows?
+4353	?"J
+4354	Jo
+4355	oin 
+4356	 the co
+4357	onv
+4358	versa
+4359	ation -
+4360	- f
+4361	find
+4362	d us
+4363	s on
+4364	n F
+4365	Fac
+4366	ceb
+4367	book
+4368	k, 
+4369	 In
+4370	nsta
+4371	agra
+4372	am,
+4373	, Sn
+4374	nap
+4375	pc
+4376	chat
+4377	t and 
+4378	 Tw
+4379	witt
+4380	ter.A
+4381	Ar
+4382	re yo
+4383	ou t
+4384	the chi
+4385	ild 
+4386	 of a
+4387	a Ca
+4388	atholic
+4389	c pr
+4390	riest?
+4391	? S
+4392	Sen
+4393	nd u
+4394	us 
+4395	 a m
+4396	mess
+4397	sag
+4398	ge u
+4399	usi
+4400	ing the 
+4401	 form
+4402	m b
+4403	belo
+4404	ow.I
+4405	If 
+4406	 yo
+4407	ou a
+4408	are h
+4409	happy 
+4410	 to be 
+4411	 cont
+4412	tac
+4413	cted
+4414	d by 
+4415	 a B
+4416	BBC
+4417	C j
+4418	jo
+4419	ourn
+4420	nali
+4421	ist
+4422	t pl
+4423	lease
+4424	e le
+4425	eav
+4426	ve a
+4427	a t
+4428	telep
+4429	phon
+4430	ne n
+4431	nu
+4432	umb
+4433	ber 
+4434	 that w
+4435	we c
+4436	can
+4437	n
+
+4438	
+ 
+4439	   
+4440	    
+4441	     
+4442	      
+4443	       
+4444	    c
+4445	conta
+4446	act 
+4447	 you
+4448	u o
+4449	on. 
+4450	 In 
+4451	 some
+4452	e ca
+4453	ase
+4454	es a
+4455	a se
+4456	ele
+4457	ecti
+4458	ion 
+4459	 of y
+4460	your c
+4461	comme
+4462	ents 
+4463	 wil
+4464	ll be
+4465	e pu
+4466	ubl
+4467	lish
+4468	hed
+4469	d, d
+4470	disp
+4471	playi
+4472	ing yo
+4473	our 
+4474	 na
+4475	ame as
+4476	s
+
+4477	
+  
+4478	        
+4479	         
+4480	        y
+4481	you p
+4482	provi
+4483	ide 
+4484	 it 
+4485	 and l
+4486	loc
+4487	cat
+4488	tion, 
+4489	 un
+4490	nl
+4491	less 
+4492	 you 
+4493	 stat
+4494	te o
+4495	otherw
+4496	wis
+4497	se.
+4498	. Y
+4499	You
+4500	ur c
+4501	contac
+4502	ct d
+4503	det
+4504	tai
+4505	ils
+4506	s wil
+4507	ll n
+4508	never
+4509	r b
+4510	be p
+4511	pub
+4512	bli
+4513	ishe
+4514	ed.
+
+4515	
+   
+4516	          
+4517	           
+4518	   W
+4519	When
+4520	n se
+4521	endi
+4522	ing us
+4523	s pi
+4524	ictu
+4525	ures,
+4526	, v
+4527	vid
+4528	deo
+4529	o or
+4530	r ey
+4531	yew
+4532	witn
+4533	nes
+4534	ss 
+4535	 ac
+4536	ccou
+4537	unts
+4538	s at 
+4539	 no t
+4540	tim
+4541	me s
+4542	shoul
+4543	ld y
+4544	you e
+4545	enda
+4546	ange
+4547	er y
+4548	yourse
+4549	elf o
+4550	or o
+4551	others
+4552	s,
+
+4553	
+    
+4554	            
+4555	          t
+4556	tak
+4557	ke an
+4558	ny u
+4559	unn
+4560	nece
+4561	essa
+4562	ary r
+4563	risk
+4564	ks 
+4565	 or i
+4566	inf
+4567	frin
+4568	nge 
+4569	 any 
+4570	 law
+4571	ws
+4572	s. P
+4573	Ple
+4574	ease 
+4575	 en
+4576	nsu
+4577	ure y
+4578	you h
+4579	have r
+4580	read
+4581	d the 
+4582	 te
+4583	erm
+4584	ms 
+4585	 and co
+4586	ondi
+4587	itio
+4588	ons.
+4589	.T
+4590	Ter
+4591	rms
+4592	s and c
+4593	cond
+4594	dit
+4595	tionsT
+4596	The B
+4597	BBC 
+4598	 is 
+4599	 not r
+4600	respo
+4601	onsi
+4602	ibl
+4603	le fo
+4604	or th
+4605	he con
+4606	nten
+4607	nt of
+4608	f e
+4609	exte
+4610	ernal
+4611	l I
+4612	Int
+4613	terne
+4614	et 
+4615	 site

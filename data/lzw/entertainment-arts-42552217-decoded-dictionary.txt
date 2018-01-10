@@ -1,0 +1,1857 @@
+1	
+2	
+3	
+4	
+5	
+6	
+7	
+8	
+9		
+10	
+
+11	
+12	
+13	
+14	
+15	
+16	
+17	
+18	
+19	
+20	
+21	
+22	
+23	
+24	
+25	
+26	
+27	
+28	
+29	
+30	
+31	
+32	 
+33	!
+34	"
+35	#
+36	$
+37	%
+38	&
+39	'
+40	(
+41	)
+42	*
+43	+
+44	,
+45	-
+46	.
+47	/
+48	0
+49	1
+50	2
+51	3
+52	4
+53	5
+54	6
+55	7
+56	8
+57	9
+58	:
+59	;
+60	<
+61	=
+62	>
+63	?
+64	@
+65	A
+66	B
+67	C
+68	D
+69	E
+70	F
+71	G
+72	H
+73	I
+74	J
+75	K
+76	L
+77	M
+78	N
+79	O
+80	P
+81	Q
+82	R
+83	S
+84	T
+85	U
+86	V
+87	W
+88	X
+89	Y
+90	Z
+91	[
+92	\
+93	]
+94	^
+95	_
+96	`
+97	a
+98	b
+99	c
+100	d
+101	e
+102	f
+103	g
+104	h
+105	i
+106	j
+107	k
+108	l
+109	m
+110	n
+111	o
+112	p
+113	q
+114	r
+115	s
+116	t
+117	u
+118	v
+119	w
+120	x
+121	y
+122	z
+123	{
+124	|
+125	}
+126	~
+127	
+128	
+129	
+130	
+131	
+132	
+133	
+134	
+135	
+136	
+137	
+138	
+139	
+140	
+141	
+142	
+143	
+144	
+145	
+146	
+147	
+148	
+149	
+150	
+151	
+152	
+153	
+154	
+155	
+156	
+157	
+158	
+159	
+160	 
+161	¡
+162	¢
+163	£
+164	¤
+165	¥
+166	¦
+167	§
+168	¨
+169	©
+170	ª
+171	«
+172	¬
+173	­
+174	®
+175	¯
+176	°
+177	±
+178	²
+179	³
+180	´
+181	µ
+182	¶
+183	·
+184	¸
+185	¹
+186	º
+187	»
+188	¼
+189	½
+190	¾
+191	¿
+192	À
+193	Á
+194	Â
+195	Ã
+196	Ä
+197	Å
+198	Æ
+199	Ç
+200	È
+201	É
+202	Ê
+203	Ë
+204	Ì
+205	Í
+206	Î
+207	Ï
+208	Ð
+209	Ñ
+210	Ò
+211	Ó
+212	Ô
+213	Õ
+214	Ö
+215	×
+216	Ø
+217	Ù
+218	Ú
+219	Û
+220	Ü
+221	Ý
+222	Þ
+223	ß
+224	à
+225	á
+226	â
+227	ã
+228	ä
+229	å
+230	æ
+231	ç
+232	è
+233	é
+234	ê
+235	ë
+236	ì
+237	í
+238	î
+239	ï
+240	ð
+241	ñ
+242	ò
+243	ó
+244	ô
+245	õ
+246	ö
+247	÷
+248	ø
+249	ù
+250	ú
+251	û
+252	ü
+253	ý
+254	þ
+255	ÿ
+256	Ei
+257	ig
+258	gh
+259	ht
+260	t 
+261	 n
+262	ne
+263	ew
+264	w 
+265	 c
+266	ce
+267	el
+268	le
+269	eb
+270	br
+271	ri
+272	it
+273	ti
+274	ie
+275	es
+276	s 
+277	 w
+278	wa
+279	al
+280	lk
+281	ke
+282	ed
+283	d 
+284	 (
+285	(w
+286	wi
+287	ith
+288	h 
+289	 t
+290	th
+291	he
+292	ei
+293	ir
+294	r 
+295	 u
+296	um
+297	mb
+298	bre
+299	ell
+300	la
+301	as
+302	s)
+303	) 
+304	 i
+305	in
+306	nt
+307	to
+308	o 
+309	 th
+310	he 
+311	 C
+312	Ce
+313	ele
+314	ebr
+315	rit
+316	ty
+317	y 
+318	 B
+319	Bi
+320	ig 
+321	 Br
+322	ro
+323	ot
+324	the
+325	er
+326	r h
+327	ho
+328	ou
+329	us
+330	se
+331	e 
+332	 o
+333	on
+334	n 
+335	 T
+336	Tu
+337	ue
+338	esd
+339	da
+340	ay
+341	y e
+342	ev
+343	ve
+344	en
+345	ni
+346	ing
+347	g.
+348	.T
+349	Th
+350	hi
+351	is
+352	s s
+353	ser
+354	rie
+355	es 
+356	 is
+357	s a
+358	a 
+359	 l
+360	li
+361	itt
+362	tl
+363	le 
+364	 d
+365	di
+366	if
+367	ff
+368	fe
+369	ere
+370	ent
+371	t t
+372	to 
+373	 no
+374	or
+375	rm
+376	ma
+377	al 
+378	 -
+379	- 
+380	 the
+381	e f
+382	fi
+383	irs
+384	st
+385	t b
+386	ba
+387	at
+388	tc
+389	ch
+390	h o
+391	of
+392	f 
+393	 h
+394	hou
+395	use
+396	em
+397	mat
+398	te
+399	es a
+400	ar
+401	re
+402	e a
+403	all
+404	l 
+405	 f
+406	fem
+407	mal
+408	le,
+409	, 
+410	 a
+411	alt
+412	tho
+413	oug
+414	gh 
+415	 m
+416	male
+417	e c
+418	co
+419	ont
+420	tes
+421	sta
+422	an
+423	nts
+424	s w
+425	wil
+426	ll
+427	l b
+428	be
+429	e ad
+430	dd
+431	de
+432	ed 
+433	 la
+434	ate
+435	er 
+436	 thi
+437	is 
+438	 we
+439	ee
+440	ek
+441	k.
+442	.C
+443	Ch
+444	ha
+445	ann
+446	nel
+447	l 5
+448	5 
+449	 s
+450	sa
+451	ai
+452	id
+453	d i
+454	it 
+455	 wa
+456	as 
+457	 lau
+458	un
+459	nc
+460	chi
+461	ing 
+462	 the 
+463	 sh
+464	how
+465	w w
+466	wit
+467	th 
+468	 the f
+469	fema
+470	ale
+471	e-
+472	-o
+473	onl
+474	ly
+475	y c
+476	ca
+477	ast
+478	t to
+479	o m
+480	mar
+481	rk
+482	k 
+483	 the 1
+484	10
+485	00
+486	0t
+487	th a
+488	anni
+489	iv
+490	ver
+491	rs
+492	sar
+493	ry
+494	y o
+495	of 
+496	 wo
+497	om
+498	me
+499	en 
+500	 ov
+501	ver 
+502	 3
+503	30
+504	0 
+505	 b
+506	bei
+507	ing g
+508	gi
+509	ive
+510	en t
+511	the 
+512	 v
+513	vo
+514	ote
+515	e.
+516	.F
+517	Fo
+518	orm
+519	mer
+520	r L
+521	Li
+522	iver
+523	rp
+524	po
+525	oo
+526	ol
+527	l p
+528	pl
+529	lay
+530	ye
+531	er J
+532	Jo
+533	oh
+534	hn
+535	n B
+536	Ba
+537	arn
+538	nes
+539	s wi
+540	il
+541	ll 
+542	 be
+543	e t
+544	the f
+545	fir
+546	rst
+547	t m
+548	man
+549	n t
+550	to e
+551	ente
+552	er t
+553	the h
+554	hous
+555	se 
+556	 on
+557	n F
+558	Fr
+559	rid
+560	day
+561	y.
+562	."
+563	"P
+564	Pu
+565	ut
+566	tt
+567	tin
+568	ng
+569	g 
+570	 the w
+571	wo
+572	ome
+573	en i
+574	in 
+575	 fi
+576	irst
+577	t a
+578	and
+579	d a
+580	allo
+581	ow
+582	win
+583	ng 
+584	 them
+585	m 
+586	 to
+587	o s
+588	set
+589	ttl
+590	le a
+591	and 
+592	 ta
+593	ak
+594	ke 
+595	 co
+596	ontr
+597	rol
+598	l o
+599	of t
+600	the ho
+601	ous
+602	se b
+603	bef
+604	fo
+605	ore
+606	e th
+607	he m
+608	men
+609	n a
+610	arr
+611	riv
+612	ve 
+613	 wi
+614	ill
+615	l c
+616	cr
+617	rea
+618	ate 
+619	 an
+620	n i
+621	int
+622	ter
+623	res
+624	sti
+625	ing d
+626	dy
+627	yn
+628	na
+629	am
+630	mi
+631	ic
+632	c,
+633	,"
+634	" 
+635	 Ta
+636	ams
+637	si
+638	in D
+639	Do
+640	od
+641	dg
+642	gs
+643	so
+644	on,
+645	, C
+646	Cel
+647	leb
+648	bri
+649	ity
+650	y B
+651	Big
+652	g B
+653	Br
+654	rot
+655	ther
+656	r'
+657	's
+658	s e
+659	ex
+660	xe
+661	ec
+662	cu
+663	uti
+664	ive 
+665	 e
+666	edi
+667	ito
+668	or,
+669	, t
+670	tol
+671	ld
+672	d B
+673	BB
+674	BC
+675	C 
+676	 N
+677	Ne
+678	ews
+679	s.
+680	."H
+681	Ho
+682	ow 
+683	 do
+684	o t
+685	the d
+686	dif
+687	ffe
+688	eren
+689	nt 
+690	 g
+691	gr
+692	rou
+693	up
+694	ps
+695	s c
+696	cop
+697	pe
+698	e w
+699	with
+700	h p
+701	pow
+702	we
+703	er a
+704	and w
+705	wh
+706	hat
+707	t i
+708	im
+709	mp
+710	pa
+711	ac
+712	ct
+713	t d
+714	do
+715	oe
+716	es g
+717	ge
+718	end
+719	der
+720	r r
+721	real
+722	lly
+723	y h
+724	hav
+725	ve?
+726	? 
+727	 F
+728	Fu
+729	und
+730	dam
+731	ment
+732	ta
+733	ally
+734	y t
+735	thou
+736	ug
+737	gh i
+738	it w
+739	will
+740	l be
+741	e a 
+742	 lo
+743	ot 
+744	 of
+745	f f
+746	fu
+747	un 
+748	 to 
+749	 wat
+750	tch
+751	h.
+752	."He
+753	ere 
+754	 ar
+755	re 
+756	 this
+757	s y
+758	yea
+759	ar'
+760	's 
+761	 con
+762	nte
+763	est
+764	tan
+765	nts 
+766	 (s
+767	so 
+768	 fa
+769	ar)
+770	):
+771	:J
+772	Je
+773	ess
+774	s i
+775	is b
+776	bes
+777	st 
+778	 k
+779	kn
+780	no
+781	own
+782	n f
+783	for
+784	r a
+785	ap
+786	pp
+787	pea
+788	ari
+789	ing i
+790	in M
+791	MT
+792	TV
+793	V 
+794	 r
+795	reali
+796	ity 
+797	 sho
+798	ow E
+799	Ex
+800	x 
+801	 on 
+802	 the B
+803	Be
+804	ea
+805	ach
+806	h.S
+807	Sh
+808	he'
+809	's a
+810	als
+811	so a
+812	app
+813	pear
+814	red
+815	d in
+816	n 2
+817	20
+818	01
+819	17
+820	7'
+821	's D
+822	Da
+823	ang
+824	ger
+825	rous
+826	s G
+827	Ga
+828	ame
+829	e al
+830	lo
+831	ong
+832	gsi
+833	ide
+834	e C
+835	Ca
+836	alu
+837	um 
+838	 Be
+839	est 
+840	 and
+841	d o
+842	onc
+843	ce 
+844	 da
+845	ated
+846	d C
+847	Cha
+848	arl
+849	lie
+850	e S
+851	She
+852	een
+853	n.
+854	.A
+855	An
+856	nn
+857	n W
+858	Wi
+859	idd
+860	dec
+861	com
+862	mbe
+863	e s
+864	serv
+865	ved
+866	d as
+867	s a 
+868	 Co
+869	ons
+870	serva
+871	ati
+872	ive M
+873	MP
+874	P 
+875	 fr
+876	rom
+877	m 1
+878	19
+879	98
+880	87
+881	7 
+882	 un
+883	nti
+884	il 
+885	 2
+886	201
+887	10.
+888	.S
+889	She 
+890	 ap
+891	ppe
+892	ear
+893	red 
+894	 in
+895	n S
+896	St
+897	tr
+898	ric
+899	ctl
+900	ly 
+901	 Com
+902	me 
+903	 D
+904	Dan
+905	nci
+906	ing in
+907	n th
+908	he y
+909	year
+910	r af
+911	ft
+912	ter 
+913	 she
+914	e st
+915	tep
+916	pped
+917	d d
+918	dow
+919	wn
+920	n an
+921	nd
+922	d m
+923	mad
+924	de 
+925	 it
+926	t to 
+927	 the n
+928	nin
+929	nth
+930	h w
+931	wee
+932	ek 
+933	 wit
+934	th h
+935	her
+936	r p
+937	par
+938	rt
+939	tn
+940	ner
+941	r A
+942	Ant
+943	ton
+944	n D
+945	Du
+946	u 
+947	 Bek
+948	ke.
+949	.Y
+950	Yo
+951	ou'
+952	'l
+953	ll p
+954	pr
+955	rob
+956	bab
+957	bl
+958	ly r
+959	rec
+960	cog
+961	gn
+962	nis
+963	se r
+964	realit
+965	ty 
+966	 TV
+967	V v
+968	vet
+969	tera
+970	an 
+971	 M
+972	Ma
+973	ali
+974	ik
+975	ka
+976	a i
+977	if 
+978	 y
+979	yo
+980	ou'v
+981	ve e
+982	eve
+983	er w
+984	wat
+985	tche
+986	ed H
+987	Hu
+988	usb
+989	ban
+990	nds
+991	s o
+992	of H
+993	Hol
+994	llyw
+995	woo
+996	od,
+997	, D
+998	Das
+999	sh
+1000	h D
+1001	Dol
+1002	lls
+1003	s or
+1004	r H
+1005	Holl
+1006	lyw
+1007	wood
+1008	d D
+1009	Di
+1010	iva
+1011	as.
+1012	.B
+1013	Bu
+1014	ut 
+1015	 the 3
+1016	34
+1017	4-
+1018	-y
+1019	year-
+1020	-ol
+1021	ld 
+1022	 is 
+1023	 p
+1024	per
+1025	rh
+1026	hap
+1027	ps 
+1028	 mo
+1029	os
+1030	st f
+1031	fa
+1032	amo
+1033	ous 
+1034	 fo
+1035	or 
+1036	 he
+1037	er as
+1038	ss
+1039	soc
+1040	ci
+1041	ia
+1042	atio
+1043	on 
+1044	 with
+1045	h K
+1046	Kh
+1047	hl
+1048	loe
+1049	e K
+1050	Ka
+1051	ard
+1052	das
+1053	shi
+1054	ian
+1055	n -
+1056	- t
+1057	the p
+1058	pai
+1059	ir 
+1060	 ha
+1061	av
+1062	ve b
+1063	bee
+1064	en b
+1065	best
+1066	t f
+1067	fr
+1068	rien
+1069	nds 
+1070	 si
+1071	inc
+1072	ce t
+1073	they
+1074	y w
+1075	wer
+1076	re 1
+1077	15
+1078	5.
+1079	.Ac
+1080	ctr
+1081	ress
+1082	s A
+1083	Am
+1084	mand
+1085	da 
+1086	 Ba
+1087	arri
+1088	ie 
+1089	 is t
+1090	the o
+1091	old
+1092	des
+1093	st c
+1094	con
+1095	ntes
+1096	stan
+1097	nt t
+1098	thi
+1099	is y
+1100	year,
+1101	, e
+1102	enter
+1103	rin
+1104	ng t
+1105	the hou
+1106	use 
+1107	 at
+1108	t th
+1109	he g
+1110	gra
+1111	and a
+1112	ag
+1113	ge 
+1114	 of 
+1115	 8
+1116	82
+1117	2.
+1118	.H
+1119	He
+1120	er T
+1121	TV 
+1122	 cr
+1123	redi
+1124	its
+1125	s in
+1126	ncl
+1127	lu
+1128	ud
+1129	de B
+1130	Ben
+1131	nid
+1132	dor
+1133	rm,
+1134	, H
+1135	Holb
+1136	by
+1137	y C
+1138	Ci
+1139	ity,
+1140	, m
+1141	mu
+1142	ul
+1143	lt
+1144	tip
+1145	ple
+1146	e Ca
+1147	arry
+1148	y O
+1149	On
+1150	n fi
+1151	ilm
+1152	ms
+1153	s an
+1154	nd 
+1155	 A
+1156	Ar
+1157	re Y
+1158	You
+1159	u B
+1160	Bei
+1161	ing S
+1162	Se
+1163	erv
+1164	ved?
+1165	?.
+1166	.Bu
+1167	ut s
+1168	she
+1169	e'
+1170	's p
+1171	perh
+1172	haps
+1173	s b
+1174	best 
+1175	 kn
+1176	now
+1177	wn 
+1178	 for
+1179	r pl
+1180	layi
+1181	ing A
+1182	Al
+1183	lm
+1184	ma 
+1185	 H
+1186	Ha
+1187	alli
+1188	iw
+1189	wel
+1190	ll (
+1191	(a
+1192	also
+1193	o k
+1194	kno
+1195	own 
+1196	 as
+1197	s Al
+1198	lma
+1199	a B
+1200	Bal
+1201	ldw
+1202	win 
+1203	 and 
+1204	 Al
+1205	lma 
+1206	 S
+1207	Sed
+1208	dge
+1209	ewi
+1210	ick
+1211	k)
+1212	) i
+1213	in C
+1214	Co
+1215	oro
+1216	ona
+1217	ation
+1218	n St
+1219	tre
+1220	eet
+1221	t fo
+1222	or m
+1223	mo
+1224	ore 
+1225	 tha
+1226	an a
+1227	a d
+1228	deca
+1229	ad
+1230	de -
+1231	- l
+1232	lea
+1233	avi
+1234	ing t
+1235	the s
+1236	soa
+1237	ap 
+1238	 in 
+1239	 20
+1240	001
+1241	1.
+1242	.As
+1243	shl
+1244	ley
+1245	y f
+1246	firs
+1247	st s
+1248	sho
+1249	ot t
+1250	to f
+1251	fam
+1252	me i
+1253	in 2
+1254	2013
+1255	3 
+1256	 af
+1257	fte
+1258	er ap
+1259	ppea
+1260	arin
+1261	ng i
+1262	in E
+1263	E4
+1264	4 
+1265	 re
+1266	eal
+1267	lit
+1268	ty s
+1269	show
+1270	w M
+1271	Mad
+1272	de i
+1273	in Ch
+1274	hel
+1275	ls
+1276	sea
+1277	a.
+1278	.But
+1279	t s
+1280	she'
+1281	's n
+1282	now 
+1283	 bet
+1284	tte
+1285	er k
+1286	know
+1287	wn a
+1288	as a
+1289	a m
+1290	mod
+1291	del
+1292	l,
+1293	, DJ
+1294	J 
+1295	 and p
+1296	pre
+1297	ese
+1298	enter 
+1299	 - 
+1300	 ho
+1301	ost
+1302	ting
+1303	g h
+1304	her 
+1305	 ow
+1306	wn s
+1307	show 
+1308	 on H
+1309	Hox
+1310	xt
+1311	ton 
+1312	 R
+1313	Ra
+1314	adi
+1315	io
+1316	o e
+1317	ever
+1318	ry 
+1319	 Fr
+1320	rida
+1321	ay.
+1322	.M
+1323	Mag
+1324	gg
+1325	gie
+1326	e O
+1327	Ol
+1328	liv
+1329	ver i
+1330	is a
+1331	a f
+1332	form
+1333	mer 
+1334	 de
+1335	et
+1336	tec
+1337	cti
+1338	ive w
+1339	with 
+1340	 G
+1341	Gr
+1342	reat
+1343	ter M
+1344	Man
+1345	nch
+1346	hes
+1347	ste
+1348	er P
+1349	Po
+1350	oli
+1351	ice
+1352	e wh
+1353	ho 
+1354	 hel
+1355	lp
+1356	ped
+1357	d b
+1358	brea
+1359	ak 
+1360	 up
+1361	p 
+1362	 the R
+1363	Ro
+1364	oc
+1365	chd
+1366	dal
+1367	le c
+1368	chil
+1369	ld g
+1370	gro
+1371	oom
+1372	min
+1373	ng r
+1374	ring
+1375	g.H
+1376	Her
+1377	r i
+1378	inv
+1379	vol
+1380	lv
+1381	vem
+1382	ment 
+1383	 was
+1384	s d
+1385	dr
+1386	ra
+1387	ama
+1388	atis
+1389	sed
+1390	d in 
+1391	 BB
+1392	BC 
+1393	 O
+1394	One
+1395	e's
+1396	s T
+1397	Thr
+1398	ree
+1399	e G
+1400	Gi
+1401	irl
+1402	ls 
+1403	 las
+1404	st y
+1405	year 
+1406	 - w
+1407	whi
+1408	ich
+1409	h s
+1410	saw
+1411	w a
+1412	act
+1413	tres
+1414	ss 
+1415	 L
+1416	Le
+1417	esl
+1418	ley 
+1419	 Sh
+1420	har
+1421	rp 
+1422	 po
+1423	ort
+1424	tra
+1425	ay 
+1426	 her
+1427	r.
+1428	.Tr
+1429	ran
+1430	ns
+1431	sg
+1432	gen
+1433	nde
+1434	er n
+1435	new
+1436	ws
+1437	sr
+1438	read
+1439	der 
+1440	 I
+1441	In
+1442	ndi
+1443	ia 
+1444	 has
+1445	s p
+1446	prev
+1447	vi
+1448	iou
+1449	usl
+1450	ly w
+1451	wor
+1452	rke
+1453	ed a
+1454	as a 
+1455	 TV 
+1456	 rep
+1457	por
+1458	rte
+1459	er.
+1460	. 
+1461	 As
+1462	s J
+1463	Jon
+1464	nat
+1465	tha
+1466	an W
+1467	Wil
+1468	llo
+1469	ough
+1470	hb
+1471	by,
+1472	, s
+1473	she 
+1474	 was 
+1475	 a 
+1476	 repo
+1477	orte
+1478	er at
+1479	t I
+1480	IT
+1481	TV B
+1482	Bo
+1483	ord
+1484	der i
+1485	in t
+1486	the n
+1487	nor
+1488	rth
+1489	h e
+1490	eas
+1491	st a
+1492	and C
+1493	Cu
+1494	umb
+1495	bria
+1496	a.S
+1497	She q
+1498	qu
+1499	ui
+1500	it h
+1501	her p
+1502	pres
+1503	sen
+1504	ntin
+1505	ng j
+1506	jo
+1507	ob
+1508	b 
+1509	 in 2
+1510	2010
+1511	0 a
+1512	af
+1513	fter
+1514	r a 
+1515	 dec
+1516	cad
+1517	de,
+1518	, b
+1519	bu
+1520	ut r
+1521	ret
+1522	tu
+1523	ur
+1524	rn
+1525	ned
+1526	d t
+1527	to T
+1528	TV f
+1529	fiv
+1530	ve y
+1531	years
+1532	s l
+1533	lat
+1534	ter,
+1535	, h
+1536	havi
+1537	ing tr
+1538	rans
+1539	sit
+1540	tio
+1541	one
+1542	ed t
+1543	to a
+1544	a w
+1545	wom
+1546	man.
+1547	. S
+1548	She h
+1549	has
+1550	s r
+1551	rece
+1552	entl
+1553	ly a
+1554	appe
+1555	eare
+1556	ed as
+1557	s a h
+1558	hos
+1559	st o
+1560	on L
+1561	Lo
+1562	oos
+1563	se W
+1564	Wo
+1565	omen
+1566	n and
+1567	d h
+1568	has 
+1569	 al
+1570	lso
+1571	o b
+1572	been
+1573	n a 
+1574	 gu
+1575	ues
+1576	st on
+1577	n T
+1578	Thi
+1579	is M
+1580	Mo
+1581	orn
+1582	ning
+1583	g.J
+1584	Jou
+1585	urn
+1586	nal
+1587	lis
+1588	st R
+1589	Rac
+1590	che
+1591	el 
+1592	 J
+1593	Joh
+1594	hns
+1595	son
+1596	n w
+1597	was
+1598	s t
+1599	the fi
+1600	irst 
+1601	 hou
+1602	usem
+1603	mate
+1604	e to
+1605	o be
+1606	e an
+1607	nno
+1608	oun
+1609	nce
+1610	ed f
+1611	for 
+1612	 this 
+1613	 se
+1614	eri
+1615	ies
+1616	s of
+1617	f C
+1618	CB
+1619	BB 
+1620	 - a
+1621	as C
+1622	Chan
+1623	nne
+1624	el 5
+1625	5 r
+1626	rev
+1627	vea
+1628	aled
+1629	d he
+1630	er na
+1631	ame 
+1632	 bef
+1633	fore
+1634	e Ch
+1635	hr
+1636	ris
+1637	stm
+1638	mas
+1639	s.S
+1640	She ha
+1641	as e
+1642	edit
+1643	ted
+1644	d T
+1645	The
+1646	e L
+1647	La
+1648	ady
+1649	y m
+1650	mag
+1651	ga
+1652	az
+1653	zi
+1654	ine
+1655	e and
+1656	d w
+1657	wr
+1658	ritt
+1659	ten
+1660	n we
+1661	eek
+1662	kl
+1663	ly c
+1664	col
+1665	lum
+1666	mn
+1667	ns 
+1668	 for 
+1669	 Th
+1670	he T
+1671	Te
+1672	eleg
+1673	grap
+1674	ph
+1675	h a
+1676	and T
+1677	The 
+1678	 E
+1679	Ev
+1680	ven
+1681	ning 
+1682	 St
+1683	tand
+1684	dar
+1685	rd
+1686	d.
+1687	. Sh
+1688	he c
+1689	cur
+1690	rr
+1691	ren
+1692	ntl
+1693	ly wr
+1694	rite
+1695	es f
+1696	for T
+1697	The B
+1698	Big 
+1699	 Is
+1700	ssu
+1701	ue 
+1702	 and T
+1703	The M
+1704	Mai
+1705	il o
+1706	on S
+1707	Su
+1708	unda
+1709	ay. 
+1710	 As 
+1711	 the s
+1712	sis
+1713	ster
+1714	r o
+1715	of F
+1716	For
+1717	rei
+1718	ign
+1719	n Se
+1720	ecr
+1721	reta
+1722	ary
+1723	y Bo
+1724	ori
+1725	is J
+1726	John
+1727	nso
+1728	on, 
+1729	 she 
+1730	 isn
+1731	n'
+1732	't
+1733	t the
+1734	e fi
+1735	irst p
+1736	pers
+1737	son 
+1738	 in h
+1739	her f
+1740	fami
+1741	ily
+1742	y to
+1743	o d
+1744	do 
+1745	 rea
+1746	alit
+1747	ty T
+1748	TV -
+1749	- a
+1750	as h
+1751	her fa
+1752	ath
+1753	her S
+1754	Sta
+1755	anl
+1756	ley a
+1757	appea
+1758	are
+1759	ed i
+1760	in th
+1761	he mo
+1762	ost 
+1763	 rec
+1764	cen
+1765	nt s
+1766	seri
+1767	ies 
+1768	 of I
+1769	I'
+1770	'm
+1771	m A
+1772	A 
+1773	 Ce
+1774	eleb
+1775	brit
+1776	ty.
+1777	..
+1778	.. 
+1779	 Ge
+1780	et 
+1781	 Me
+1782	e Ou
+1783	ut O
+1784	Of
+1785	f H
+1786	Here
+1787	e!
+1788	!.
+1789	.Fo
+1790	oll
+1791	low
+1792	w u
+1793	us 
+1794	 on F
+1795	Fa
+1796	ace
+1797	ebo
+1798	ook
+1799	k,
+1800	, o
+1801	on T
+1802	Tw
+1803	witt
+1804	ter @
+1805	@B
+1806	BBC
+1807	CN
+1808	New
+1809	wsE
+1810	En
+1811	nts,
+1812	, or
+1813	r on
+1814	n I
+1815	Ins
+1816	stag
+1817	gram
+1818	m a
+1819	at 
+1820	 bb
+1821	bc
+1822	cn
+1823	news
+1824	sent
+1825	ts
+1826	s. 
+1827	 If
+1828	f y
+1829	you
+1830	u h
+1831	have
+1832	e a s
+1833	sto
+1834	ory
+1835	y s
+1836	su
+1837	ugg
+1838	ges
+1839	stio
+1840	on e
+1841	ema
+1842	ail
+1843	l e
+1844	entert
+1845	tai
+1846	inm
+1847	ment.
+1848	.n
+1849	news@
+1850	@b
+1851	bb
+1852	bc.
+1853	.c
+1854	co.
+1855	.u
+1856	uk

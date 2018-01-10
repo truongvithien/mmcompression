@@ -1,0 +1,16 @@
+s	c	out	code	string
+===================================
+A	B	65	256	AB
+B	A	66	257	BA
+AB	B
+AB	B	256	258	ABB
+BA	A
+BA	B	257	259	BAB
+B	C	66	260	BC
+C	A	67	261	CA
+AB	B
+AB	A	256	262	ABA
+AB	B
+ABB	B
+ABB	A	258	263	ABBA
+A	EOF!	65

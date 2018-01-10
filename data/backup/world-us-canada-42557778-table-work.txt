@@ -1,0 +1,3472 @@
+s	c	out	code	string
+===================================
+T	h	84	16384	Th
+h	e	104	16385	he
+e	 	101	16386	e 
+ 	p	32	16387	 p
+p	r	112	16388	pr
+r	e	114	16389	re
+e	s	101	16390	es
+s	i	115	16391	si
+i	d	105	16392	id
+d	e	100	16393	de
+e	n	101	16394	en
+n	t	110	16395	nt
+t	 	116	16396	t 
+ 	h	32	16397	 h
+h	a	104	16398	ha
+a	s	97	16399	as
+s	 	115	16400	s 
+ 	w	32	16401	 w
+w	a	119	16402	wa
+a	r	97	16403	ar
+r	n	114	16404	rn
+n	e	110	16405	ne
+e	d	101	16406	ed
+d	 	100	16407	d 
+ 	N	32	16408	 N
+N	o	78	16409	No
+o	r	111	16410	or
+r	t	114	16411	rt
+t	h	116	16412	th
+h	 	104	16413	h 
+ 	K	32	16414	 K
+K	o	75	16415	Ko
+or	r
+or	e	16410	16416	ore
+e	a	101	16417	ea
+a	 	97	16418	a 
+ 	o	32	16419	 o
+o	n	111	16420	on
+n	 	110	16421	n 
+ 	T	32	16422	 T
+T	w	84	16423	Tw
+w	i	119	16424	wi
+i	t	105	16425	it
+t	t	116	16426	tt
+t	e	116	16427	te
+e	r	101	16428	er
+r	 	114	16429	r 
+ 	t	32	16430	 t
+th	h
+th	a	16412	16431	tha
+a	t	97	16432	at
+t 	 
+t 	h	16396	16433	t h
+he	e
+he	 	16385	16434	he 
+ h	h
+ h	a	16397	16435	 ha
+as	s
+as	 	16399	16436	as 
+ 	a	32	16437	 a
+a 	 
+a 	"	16418	16438	a "
+"	n	34	16439	"n
+n	u	110	16440	nu
+u	c	117	16441	uc
+c	l	99	16442	cl
+l	e	108	16443	le
+ea	a
+ea	r	16417	16444	ear
+r 	 
+r 	b	16429	16445	r b
+b	u	98	16446	bu
+u	t	117	16447	ut
+tt	t
+tt	o	16426	16448	tto
+on	n
+on	"	16420	16449	on"
+"	 	34	16450	" 
+ 	-	32	16451	 -
+-	 	45	16452	- 
+ 	b	32	16453	 b
+bu	u
+bu	t	16446	16454	but
+t 	 
+t 	d	16396	16455	t d
+d	o	100	16456	do
+o	e	111	16457	oe
+es	s
+es	 	16390	16458	es 
+ h	h
+ h	e	16397	16459	 he
+e	?	101	16460	e?
+?	F	63	16461	?F
+F	i	70	16462	Fi
+i	r	105	16463	ir
+r	i	114	16464	ri
+i	n	105	16465	in
+n	g	110	16466	ng
+g	 	103	16467	g 
+ a	a
+ a	 	16437	16468	 a 
+ 	n	32	16469	 n
+nu	u
+nu	c	16440	16470	nuc
+cl	l
+cl	e	16442	16471	cle
+ea	a
+ear	r
+ear	 	16444	16472	ear 
+ w	w
+ w	e	16401	16473	 we
+ea	a
+ea	p	16417	16474	eap
+p	o	112	16475	po
+on	n
+on	 	16420	16476	on 
+ 	i	32	16477	 i
+i	s	105	16478	is
+s 	 
+s 	-	16400	16479	s -
+- 	 
+- 	u	16452	16480	- u
+u	n	117	16481	un
+n	s	110	16482	ns
+s	u	115	16483	su
+u	r	117	16484	ur
+r	p	114	16485	rp
+pr	r
+pr	i	16388	16486	pri
+is	s
+is	i	16478	16487	isi
+in	n
+in	g	16465	16488	ing
+g	l	103	16489	gl
+l	y	108	16490	ly
+y	 	121	16491	y 
+ -	-
+ -	 	16451	16492	 - 
+ 	m	32	16493	 m
+m	o	109	16494	mo
+or	r
+ore	e
+ore	 	16416	16495	ore 
+ 	c	32	16496	 c
+c	o	99	16497	co
+o	m	111	16498	om
+m	p	109	16499	mp
+p	l	112	16500	pl
+le	e
+le	x	16443	16501	lex
+x	 	120	16502	x 
+ t	t
+ t	h	16430	16503	 th
+ha	a
+ha	n	16398	16504	han
+n 	 
+n 	c	16421	16505	n c
+c	h	99	16506	ch
+ha	a
+han	n
+han	g	16504	16507	hang
+g	i	103	16508	gi
+in	n
+ing	g
+ing	 	16488	16509	ing 
+ t	t
+ th	h
+ th	e	16503	16510	 the
+e 	 
+e 	T	16386	16511	e T
+T	V	84	16512	TV
+V	 	86	16513	V 
+ c	c
+ c	h	16496	16514	 ch
+ha	a
+han	n
+han	n	16504	16515	hann
+ne	e
+ne	l	16405	16516	nel
+l	.	108	16517	l.
+.	M	46	16518	.M
+M	o	77	16519	Mo
+or	r
+ore	e
+ore 	 
+ore 	s	16495	16520	ore s
+su	u
+su	r	16483	16521	sur
+rp	p
+rp	r	16485	16522	rpr
+ri	i
+ri	s	16464	16523	ris
+si	i
+si	n	16391	16524	sin
+ng	g
+ng	l	16466	16525	ngl
+ly	y
+ly	,	16490	16526	ly,
+,	 	44	16527	, 
+ i	i
+ i	t	16477	16528	 it
+t 	 
+t 	i	16396	16529	t i
+in	n
+in	v	16465	16530	inv
+v	o	118	16531	vo
+o	l	111	16532	ol
+l	v	108	16533	lv
+v	e	118	16534	ve
+es	s
+es 	 
+es 	b	16458	16535	es b
+b	i	98	16536	bi
+is	s
+is	c	16478	16537	isc
+c	u	99	16538	cu
+u	i	117	16539	ui
+it	t
+it	s	16425	16540	its
+s 	 
+s 	a	16400	16541	s a
+a	n	97	16542	an
+n	d	110	16543	nd
+d 	 
+d 	f	16407	16544	d f
+f	o	102	16545	fo
+o	o	111	16546	oo
+o	t	111	16547	ot
+t	b	116	16548	tb
+b	a	98	16549	ba
+a	l	97	16550	al
+l	l	108	16551	ll
+l	s	108	16552	ls
+s	.	115	16553	s.
+.	W	46	16554	.W
+W	h	87	16555	Wh
+h	i	104	16556	hi
+i	l	105	16557	il
+le	e
+le	 	16443	16558	le 
+ t	t
+ th	h
+ the	e
+ the	 	16510	16559	 the 
+ t	t
+ t	e	16430	16560	 te
+er	r
+er	m	16428	16561	erm
+m	 	109	16562	m 
+ 	"	32	16563	 "
+"n	n
+"n	u	16439	16564	"nu
+uc	c
+uc	l	16441	16565	ucl
+le	e
+le	a	16443	16566	lea
+ar	r
+ar	 	16403	16567	ar 
+ b	b
+ b	u	16453	16568	 bu
+ut	t
+ut	t	16447	16569	utt
+t	o	116	16570	to
+on	n
+on"	"
+on"	 	16449	16571	on" 
+ i	i
+ i	s	16477	16572	 is
+s 	 
+s a	a
+s a	 	16541	16573	s a 
+ w	w
+ we	e
+ we	l	16473	16574	 wel
+ll	l
+ll	-	16551	16575	ll-
+-	k	45	16576	-k
+k	n	107	16577	kn
+n	o	110	16578	no
+o	w	111	16579	ow
+w	n	119	16580	wn
+n 	 
+n 	s	16421	16581	n s
+s	h	115	16582	sh
+h	o	104	16583	ho
+or	r
+or	t	16410	16584	ort
+th	h
+tha	a
+tha	n	16431	16585	than
+nd	d
+nd	,	16543	16586	nd,
+, 	 
+, 	t	16527	16587	, t
+th	h
+th	e	16412	16588	the
+e 	 
+e 	a	16386	16589	e a
+an	n
+an	s	16542	16590	ans
+s	w	115	16591	sw
+w	e	119	16592	we
+er	r
+er	 	16428	16593	er 
+ i	i
+ is	s
+ is	 	16572	16594	 is 
+ c	c
+ c	l	16496	16595	 cl
+le	e
+lea	a
+lea	r	16566	16596	lear
+r	.	114	16597	r.
+.	D	46	16598	.D
+D	o	68	16599	Do
+on	n
+on	a	16420	16600	ona
+al	l
+al	d	16550	16601	ald
+d 	 
+d 	T	16407	16602	d T
+T	r	84	16603	Tr
+r	u	114	16604	ru
+u	m	117	16605	um
+mp	p
+mp	 	16499	16606	mp 
+ 	d	32	16607	 d
+do	o
+do	e	16456	16608	doe
+es	s
+es 	 
+es 	n	16458	16609	es n
+no	o
+no	t	16578	16610	not
+t	,	116	16611	t,
+, 	 
+, 	l	16527	16612	, l
+l	i	108	16613	li
+it	t
+it	e	16425	16614	ite
+er	r
+er	a	16428	16615	era
+al	l
+al	l	16550	16616	all
+ly	y
+ly,	,
+ly,	 	16526	16617	ly, 
+ h	h
+ ha	a
+ ha	v	16435	16618	 hav
+ve	e
+ve	 	16534	16619	ve 
+ a	a
+ a 	 
+ a 	n	16468	16620	 a n
+nu	u
+nuc	c
+nuc	l	16470	16621	nucl
+le	e
+lea	a
+lear	r
+lear	 	16596	16622	lear 
+ b	b
+ bu	u
+ bu	t	16568	16623	 but
+tt	t
+tto	o
+tto	n	16448	16624	tton
+n	.	110	16625	n.
+.	O	46	16626	.O
+O	n	79	16627	On
+n 	 
+n 	2	16421	16628	n 2
+2	0	50	16629	20
+0	 	48	16630	0 
+ 	J	32	16631	 J
+J	a	74	16632	Ja
+an	n
+an	u	16542	16633	anu
+u	a	117	16634	ua
+ar	r
+ar	y	16403	16635	ary
+y 	 
+y 	l	16491	16636	y l
+l	a	108	16637	la
+as	s
+as	t	16399	16638	ast
+t 	 
+t 	y	16396	16639	t y
+y	e	121	16640	ye
+ea	a
+ear	r
+ear	,	16444	16641	ear,
+, 	 
+, 	a	16527	16642	, a
+a 	 
+a 	m	16418	16643	a m
+m	i	109	16644	mi
+il	l
+il	i	16557	16645	ili
+it	t
+it	a	16425	16646	ita
+ar	r
+ary	y
+ary	 	16635	16647	ary 
+ a	a
+ a	i	16437	16648	 ai
+id	d
+id	e	16392	16649	ide
+e 	 
+e 	c	16386	16650	e c
+c	a	99	16651	ca
+ar	r
+ar	r	16403	16652	arr
+r	y	114	16653	ry
+y	i	121	16654	yi
+in	n
+ing	g
+ing 	 
+ing 	a	16509	16655	ing a
+a 	 
+a 	l	16418	16656	a l
+le	e
+lea	a
+lea	t	16566	16657	leat
+th	h
+the	e
+the	r	16588	16658	ther
+r 	 
+r b	b
+r b	r	16445	16659	r br
+ri	i
+ri	e	16464	16660	rie
+e	f	101	16661	ef
+f	c	102	16662	fc
+ca	a
+ca	s	16651	16663	cas
+s	e	115	16664	se
+e 	 
+e 	w	16386	16665	e w
+we	e
+we	n	16592	16666	wen
+nt	t
+nt	 	16395	16667	nt 
+ t	t
+ t	o	16430	16668	 to
+o	 	111	16669	o 
+ 	D	32	16670	 D
+Do	o
+Do	n	16599	16671	Don
+n	a	110	16672	na
+al	l
+ald	d
+ald	 	16601	16673	ald 
+ T	T
+ T	r	16422	16674	 Tr
+ru	u
+ru	m	16604	16675	rum
+mp	p
+mp	'	16499	16676	mp'
+'	s	39	16677	's
+s 	 
+s 	i	16400	16678	s i
+in	n
+in	a	16465	16679	ina
+a	u	97	16680	au
+u	g	117	16681	ug
+g	u	103	16682	gu
+ur	r
+ur	a	16484	16683	ura
+at	t
+at	i	16432	16684	ati
+i	o	105	16685	io
+on	n
+on 	 
+on 	w	16476	16686	on w
+wi	i
+wi	t	16424	16687	wit
+th	h
+th	 	16412	16688	th 
+ 	P	32	16689	 P
+P	r	80	16690	Pr
+re	e
+re	s	16389	16691	res
+si	i
+si	d	16391	16692	sid
+de	e
+de	n	16393	16693	den
+nt	t
+nt 	 
+nt 	O	16667	16694	nt O
+O	b	79	16695	Ob
+ba	a
+ba	m	16549	16696	bam
+m	a	109	16697	ma
+a	.	97	16698	a.
+.	A	46	16699	.A
+A	f	65	16700	Af
+f	t	102	16701	ft
+te	e
+te	r	16427	16702	ter
+r 	 
+r 	M	16429	16703	r M
+M	r	77	16704	Mr
+r 	 
+r 	T	16429	16705	r T
+Tr	r
+Tr	u	16603	16706	Tru
+um	m
+um	p	16605	16707	ump
+p	 	112	16708	p 
+ t	t
+ to	o
+ to	o	16668	16709	 too
+o	k	111	16710	ok
+k	 	107	16711	k 
+ t	t
+ th	h
+ the	e
+ the 	 
+ the 	o	16559	16712	 the o
+o	a	111	16713	oa
+at	t
+at	h	16432	16714	ath
+h 	 
+h 	o	16413	16715	h o
+o	f	111	16716	of
+f	 	102	16717	f 
+ o	o
+ o	f	16419	16718	 of
+f	f	102	16719	ff
+f	i	102	16720	fi
+i	c	105	16721	ic
+c	e	99	16722	ce
+e	,	101	16723	e,
+, 	 
+, t	t
+, t	h	16587	16724	, th
+he	e
+he 	 
+he 	a	16434	16725	he a
+a	i	97	16726	ai
+id	d
+ide	e
+ide	 	16649	16727	ide 
+ -	-
+ - 	 
+ - 	a	16492	16728	 - a
+an	n
+an	d	16542	16729	and
+d 	 
+d 	t	16407	16730	d t
+th	h
+the	e
+the	 	16588	16731	the 
+ b	b
+ b	r	16453	16732	 br
+ri	i
+rie	e
+rie	f	16660	16733	rief
+fc	c
+fc	a	16662	16734	fca
+as	s
+as	e	16399	16735	ase
+e 	 
+e 	-	16386	16736	e -
+- 	 
+- 	m	16452	16737	- m
+mo	o
+mo	v	16494	16738	mov
+ve	e
+ve	d	16534	16739	ved
+d 	 
+d t	t
+d t	o	16730	16740	d to
+o 	 
+o 	M	16669	16741	o M
+Mr	r
+Mr	 	16704	16742	Mr 
+ T	T
+ Tr	r
+ Tr	u	16674	16743	 Tru
+um	m
+ump	p
+ump	'	16707	16744	ump'
+'s	s
+'s	 	16677	16745	's 
+ 	s	32	16746	 s
+si	i
+sid	d
+sid	e	16692	16747	side
+e	.	101	16748	e.
+.	T	46	16749	.T
+Th	h
+Th	e	16384	16750	The
+e 	 
+e 	b	16386	16751	e b
+b	r	98	16752	br
+ri	i
+rie	e
+rief	f
+rief	c	16733	16753	riefc
+ca	a
+cas	s
+cas	e	16663	16754	case
+e 	 
+e 	i	16386	16755	e i
+is	s
+is	 	16478	16756	is 
+ 	k	32	16757	 k
+kn	n
+kn	o	16577	16758	kno
+ow	w
+ow	n	16579	16759	own
+n 	 
+n 	a	16421	16760	n a
+as	s
+as 	 
+as 	t	16436	16761	as t
+th	h
+the	e
+the 	 
+the 	"	16731	16762	the "
+"n	n
+"nu	u
+"nu	c	16564	16763	"nuc
+cl	l
+cle	e
+cle	a	16471	16764	clea
+ar	r
+ar 	 
+ar 	f	16567	16765	ar f
+fo	o
+fo	o	16545	16766	foo
+ot	t
+ot	b	16547	16767	otb
+ba	a
+ba	l	16549	16768	bal
+ll	l
+ll	"	16551	16769	ll"
+"	.	34	16770	".
+.	 	46	16771	. 
+ T	T
+ T	h	16422	16772	 Th
+he	e
+he 	 
+he 	f	16434	16773	he f
+fo	o
+foo	o
+foo	t	16766	16774	foot
+tb	b
+tb	a	16548	16775	tba
+al	l
+all	l
+all	 	16616	16776	all 
+ i	i
+ is	s
+ is 	 
+ is 	n	16594	16777	 is n
+ne	e
+ne	e	16405	16778	nee
+ed	d
+ed	e	16406	16779	ede
+ed	d
+ed	 	16406	16780	ed 
+ t	t
+ to	o
+ to	 	16668	16781	 to 
+ 	f	32	16782	 f
+fi	i
+fi	r	16720	16783	fir
+re	e
+re	 	16389	16784	re 
+ 	U	32	16785	 U
+U	S	85	16786	US
+S	 	83	16787	S 
+ n	n
+ n	u	16469	16788	 nu
+uc	c
+ucl	l
+ucl	e	16565	16789	ucle
+ea	a
+ear	r
+ear 	 
+ear 	w	16472	16790	ear w
+we	e
+we	a	16592	16791	wea
+a	p	97	16792	ap
+po	o
+po	n	16475	16793	pon
+ns	s
+ns	 	16482	16794	ns 
+ a	a
+ a	n	16437	16795	 an
+nd	d
+nd	 	16543	16796	nd 
+ -	-
+ - 	 
+ - 	i	16492	16797	 - i
+in	n
+in	 	16465	16798	in 
+ t	t
+ th	h
+ the	e
+ the	o	16510	16799	 theo
+or	r
+or	y	16410	16800	ory
+y 	 
+y 	-	16491	16801	y -
+- 	 
+- 	n	16452	16802	- n
+ne	e
+ne	v	16405	16803	nev
+ve	e
+ve	r	16534	16804	ver
+r 	 
+r 	l	16429	16805	r l
+le	e
+lea	a
+lea	v	16566	16806	leav
+ve	e
+ve	s	16534	16807	ves
+s 	 
+s 	t	16400	16808	s t
+th	h
+the	e
+the 	 
+the 	p	16731	16809	the p
+pr	r
+pr	e	16388	16810	pre
+es	s
+es	i	16390	16811	esi
+id	d
+ide	e
+ide	n	16649	16812	iden
+nt	t
+nt	'	16395	16813	nt'
+'s	s
+'s 	 
+'s 	s	16745	16814	's s
+si	i
+sid	d
+side	e
+side	.	16747	16815	side.
+.	I	46	16816	.I
+I	n	73	16817	In
+n 	 
+n 	A	16421	16818	n A
+A	u	65	16819	Au
+ug	g
+ug	u	16681	16820	ugu
+u	s	117	16821	us
+s	t	115	16822	st
+t,	,
+t,	 	16611	16823	t, 
+ a	a
+ an	n
+ an	 	16795	16824	 an 
+ 	e	32	16825	 e
+e	x	101	16826	ex
+x	p	120	16827	xp
+p	e	112	16828	pe
+er	r
+er	t	16428	16829	ert
+t 	 
+t 	t	16396	16830	t t
+to	o
+to	l	16570	16831	tol
+l	d	108	16832	ld
+d 	 
+d 	C	16407	16833	d C
+C	N	67	16834	CN
+N	N	78	16835	NN
+N	 	78	16836	N 
+ t	t
+ th	h
+ th	a	16503	16837	 tha
+at	t
+at	,	16432	16838	at,
+, 	 
+, 	w	16527	16839	, w
+w	h	119	16840	wh
+he	e
+he	n	16385	16841	hen
+n 	 
+n 	M	16421	16842	n M
+Mr	r
+Mr 	 
+Mr 	T	16742	16843	Mr T
+Tr	r
+Tru	u
+Tru	m	16706	16844	Trum
+mp	p
+mp 	 
+mp 	p	16606	16845	mp p
+pl	l
+pl	a	16500	16846	pla
+a	y	97	16847	ay
+y	s	121	16848	ys
+s 	 
+s 	g	16400	16849	s g
+g	o	103	16850	go
+ol	l
+ol	f	16532	16851	olf
+f	,	102	16852	f,
+, 	 
+, t	t
+, th	h
+, th	e	16724	16853	, the
+e 	 
+e 	f	16386	16854	e f
+fo	o
+foo	o
+foot	t
+foot	b	16774	16855	footb
+ba	a
+bal	l
+bal	l	16768	16856	ball
+l	 	108	16857	l 
+ f	f
+ f	o	16782	16858	 fo
+ol	l
+ol	l	16532	16859	oll
+l	o	108	16860	lo
+ow	w
+ow	s	16579	16861	ows
+s 	 
+s 	h	16400	16862	s h
+hi	i
+hi	m	16556	16863	him
+m 	 
+m 	r	16562	16864	m r
+r	o	114	16865	ro
+o	u	111	16866	ou
+un	n
+un	d	16481	16867	und
+d 	 
+d t	t
+d t	h	16730	16868	d th
+he	e
+he 	 
+he 	c	16434	16869	he c
+co	o
+co	u	16497	16870	cou
+ur	r
+ur	s	16484	16871	urs
+se	e
+se	 	16664	16872	se 
+ i	i
+ i	n	16477	16873	 in
+n 	 
+n a	a
+n a	 	16760	16874	n a 
+ b	b
+ bu	u
+ bu	g	16568	16875	 bug
+g	g	103	16876	gg
+g	y	103	16877	gy
+y	.	121	16878	y.
+.I	I
+.I	f	16816	16879	.If
+f 	 
+f 	t	16717	16880	f t
+th	h
+the	e
+the 	 
+the p	p
+the p	u	16809	16881	the pu
+u	b	117	16882	ub
+b	l	98	16883	bl
+li	i
+li	c	16613	16884	lic
+c	 	99	16885	c 
+ e	e
+ e	v	16825	16886	 ev
+ve	e
+ver	r
+ver	 	16804	16887	ver 
+ p	p
+ p	e	16387	16888	 pe
+e	e	101	16889	ee
+e	p	101	16890	ep
+pe	e
+pe	d	16828	16891	ped
+d 	 
+d 	i	16407	16892	d i
+in	n
+in	s	16465	16893	ins
+si	i
+sid	d
+side	e
+side	 	16747	16894	side 
+ t	t
+ th	h
+ the	e
+ the 	 
+ the 	n	16559	16895	 the n
+nu	u
+nuc	c
+nucl	l
+nucl	e	16621	16896	nucle
+ea	a
+ear	r
+ear 	 
+ear 	f	16472	16897	ear f
+fo	o
+foo	o
+foot	t
+footb	b
+footb	a	16855	16898	footba
+al	l
+all	l
+all	,	16616	16899	all,
+, 	 
+, t	t
+, th	h
+, the	e
+, the	y	16853	16900	, they
+y 	 
+y 	m	16491	16901	y m
+mi	i
+mi	g	16644	16902	mig
+g	h	103	16903	gh
+h	t	104	16904	ht
+t 	 
+t 	b	16396	16905	t b
+b	e	98	16906	be
+e 	 
+e 	d	16386	16907	e d
+d	i	100	16908	di
+is	s
+is	a	16478	16909	isa
+ap	p
+ap	p	16792	16910	app
+po	o
+po	i	16475	16911	poi
+in	n
+in	t	16465	16912	int
+te	e
+te	d	16427	16913	ted
+d	.	100	16914	d.
+.T	T
+.T	h	16749	16915	.Th
+he	e
+he	r	16385	16916	her
+re	e
+re 	 
+re 	i	16784	16917	re i
+is	s
+is 	 
+is 	n	16756	16918	is n
+no	o
+no	 	16578	16919	no 
+ b	b
+ bu	u
+ but	t
+ but	t	16623	16920	 butt
+to	o
+to	n	16570	16921	ton
+n.	.
+n.	 	16625	16922	n. 
+ 	A	32	16923	 A
+A	n	65	16924	An
+nd	d
+nd 	 
+nd 	t	16796	16925	nd t
+th	h
+the	e
+ther	r
+ther	e	16658	16926	there
+e 	 
+e i	i
+e i	s	16755	16927	e is
+s 	 
+s 	n	16400	16928	s n
+no	o
+no 	 
+no 	c	16919	16929	no c
+cl	l
+cl	o	16442	16930	clo
+o	c	111	16931	oc
+c	k	99	16932	ck
+k	,	107	16933	k,
+, 	 
+, t	t
+, t	i	16587	16934	, ti
+ic	c
+ic	k	16721	16935	ick
+k	i	107	16936	ki
+in	n
+ing	g
+ing 	 
+ing 	d	16509	16937	ing d
+do	o
+do	w	16456	16938	dow
+wn	n
+wn	 	16580	16939	wn 
+ t	t
+ to	o
+ to 	 
+ to 	A	16781	16940	 to A
+A	r	65	16941	Ar
+r	m	114	16942	rm
+ma	a
+ma	g	16697	16943	mag
+g	e	103	16944	ge
+ed	d
+ed	d	16406	16945	edd
+do	o
+do	n	16456	16946	don
+n.	.
+n.	I	16625	16947	n.I
+In	n
+In	s	16817	16948	Ins
+st	t
+st	e	16822	16949	ste
+ea	a
+ea	d	16417	16950	ead
+d	,	100	16951	d,
+, 	 
+, t	t
+, th	h
+, the	e
+, the	r	16853	16952	, ther
+re	e
+re 	 
+re 	a	16784	16953	re a
+ar	r
+ar	e	16403	16954	are
+e 	 
+e c	c
+e c	o	16650	16955	e co
+om	m
+om	m	16498	16956	omm
+m	u	109	16957	mu
+un	n
+un	i	16481	16958	uni
+ic	c
+ic	a	16721	16959	ica
+at	t
+ati	i
+ati	o	16684	16960	atio
+on	n
+on 	 
+on 	t	16476	16961	on t
+to	o
+to	o	16570	16962	too
+ol	l
+ol	s	16532	16963	ols
+s 	 
+s a	a
+s a	n	16541	16964	s an
+nd	d
+nd 	 
+nd 	b	16796	16965	nd b
+b	o	98	16966	bo
+oo	o
+oo	k	16546	16967	ook
+k	s	107	16968	ks
+s 	 
+s 	w	16400	16969	s w
+wi	i
+wit	t
+wit	h	16687	16970	with
+h 	 
+h 	p	16413	16971	h p
+pr	r
+pre	e
+pre	p	16810	16972	prep
+p	a	112	16973	pa
+ar	r
+are	e
+are	d	16954	16974	ared
+d 	 
+d 	w	16407	16975	d w
+wa	a
+wa	r	16402	16976	war
+r 	 
+r 	p	16429	16977	r p
+pl	l
+pla	a
+pla	n	16846	16978	plan
+ns	s
+ns	.	16482	16979	ns.
+.T	T
+.Th	h
+.Th	e	16915	16980	.The
+e 	 
+e 	p	16386	16981	e p
+pl	l
+pla	a
+plan	n
+plan	s	16978	16982	plans
+s 	 
+s a	a
+s a	r	16541	16983	s ar
+re	e
+re 	 
+re 	d	16784	16984	re d
+de	e
+de	s	16393	16985	des
+si	i
+si	g	16391	16986	sig
+g	n	103	16987	gn
+ne	e
+ne	d	16405	16988	ned
+d 	 
+d f	f
+d f	o	16544	16989	d fo
+or	r
+or	 	16410	16990	or 
+ 	q	32	16991	 q
+q	u	113	16992	qu
+ui	i
+ui	c	16539	16993	uic
+ck	k
+ck	 	16932	16994	ck 
+ d	d
+ d	e	16607	16995	 de
+e	c	101	16996	ec
+c	i	99	16997	ci
+is	s
+isi	i
+isi	o	16487	16998	isio
+on	n
+on	-	16420	16999	on-
+-	m	45	17000	-m
+ma	a
+ma	k	16697	17001	mak
+ki	i
+ki	n	16936	17002	kin
+ng	g
+ng	.	16466	17003	ng.
+. 	 
+. 	I	16771	17004	. I
+In	n
+In	 	16817	17005	In 
+ 	1	32	17006	 1
+1	9	49	17007	19
+9	8	57	17008	98
+8	0	56	17009	80
+0	,	48	17010	0,
+, 	 
+, 	B	16527	17011	, B
+B	i	66	17012	Bi
+il	l
+il	l	16557	17013	ill
+l 	 
+l 	G	16857	17014	l G
+G	u	71	17015	Gu
+u	l	117	17016	ul
+ll	l
+ll	e	16551	17017	lle
+e	y	101	17018	ey
+y 	 
+y -	-
+y -	 	16801	17019	y - 
+ a	a
+ a 	 
+ a 	f	16468	17020	 a f
+fo	o
+fo	r	16545	17021	for
+rm	m
+rm	e	16942	17022	rme
+er	r
+er 	 
+er 	d	16593	17023	er d
+di	i
+di	r	16908	17024	dir
+re	e
+re	c	16389	17025	rec
+c	t	99	17026	ct
+to	o
+to	r	16570	17027	tor
+r 	 
+r 	o	16429	17028	r o
+of	f
+of	 	16716	17029	of 
+ t	t
+ th	h
+ the	e
+ the 	 
+ the 	W	16559	17030	 the W
+Wh	h
+Wh	i	16555	17031	Whi
+it	t
+ite	e
+ite	 	16614	17032	ite 
+ 	H	32	17033	 H
+H	o	72	17034	Ho
+ou	u
+ou	s	16866	17035	ous
+se	e
+se 	 
+se 	M	16872	17036	se M
+M	i	77	17037	Mi
+il	l
+ili	i
+ili	t	16645	17038	ilit
+t	a	116	17039	ta
+ar	r
+ary	y
+ary 	 
+ary 	O	16647	17040	ary O
+O	f	79	17041	Of
+ff	f
+ff	i	16719	17042	ffi
+ic	c
+ic	e	16721	17043	ice
+e 	 
+e -	-
+e -	 	16736	17044	e - 
+ s	s
+ s	a	16746	17045	 sa
+ai	i
+ai	d	16726	17046	aid
+d 	 
+d 	r	16407	17047	d r
+re	e
+re	t	16389	17048	ret
+ta	a
+ta	l	17039	17049	tal
+li	i
+li	a	16613	17050	lia
+at	t
+at	o	16432	17051	ato
+or	r
+ory	y
+ory	 	16800	17052	ory 
+ o	o
+ o	p	16419	17053	 op
+p	t	112	17054	pt
+t	i	116	17055	ti
+io	o
+io	n	16685	17056	ion
+ns	s
+ns 	 
+ns 	b	16794	17057	ns b
+bo	o
+bo	i	16966	17058	boi
+il	l
+il	 	16557	17059	il 
+ d	d
+ d	o	16607	17060	 do
+ow	w
+own	n
+own	 	16759	17061	own 
+ t	t
+ to	o
+ to 	 
+ to 	"	16781	17062	 to "
+"	r	34	17063	"r
+r	a	114	17064	ra
+ar	r
+are	e
+are	,	16954	17065	are,
+, 	 
+, 	m	16527	17066	, m
+m	e	109	17067	me
+ed	d
+ed	i	16406	17068	edi
+i	u	105	17069	iu
+um	m
+um	,	16605	17070	um,
+, 	 
+, 	o	16527	17071	, o
+or	r
+or 	 
+or 	w	16990	17072	or w
+we	e
+we	l	16592	17073	wel
+ll	l
+ll	 	16551	17074	ll 
+ d	d
+ do	o
+ do	n	17060	17075	 don
+ne	e
+ne	"	16405	17076	ne"
+".	.
+".	T	16770	17077	".T
+Th	h
+The	e
+The	 	16750	17078	The 
+ "	"
+ "	b	16563	17079	 "b
+bi	i
+bi	s	16536	17080	bis
+s	c	115	17081	sc
+cu	u
+cu	i	16538	17082	cui
+it	t
+it	"	16425	17083	it"
+" 	 
+" 	i	16450	17084	" i
+is	s
+is 	 
+is 	a	16756	17085	is a
+a 	 
+a 	c	16418	17086	a c
+ca	a
+ca	r	16651	17087	car
+r	d	114	17088	rd
+d 	 
+d 	c	16407	17089	d c
+co	o
+co	n	16497	17090	con
+nt	t
+nt	a	16395	17091	nta
+ai	i
+ai	n	16726	17092	ain
+n	i	110	17093	ni
+in	n
+ing	g
+ing 	 
+ing 	c	16509	17094	ing c
+co	o
+co	d	16497	17095	cod
+de	e
+des	s
+des	,	16985	17096	des,
+, 	 
+, w	w
+, w	h	16839	17097	, wh
+hi	i
+hi	c	16556	17098	hic
+ch	h
+ch	 	16506	17099	ch 
+ i	i
+ is	s
+ is 	 
+ is 	s	16594	17100	 is s
+su	u
+su	p	16483	17101	sup
+p	p	112	17102	pp
+po	o
+po	s	16475	17103	pos
+se	e
+se	d	16664	17104	sed
+d 	 
+d t	t
+d to	o
+d to	 	16740	17105	d to 
+ b	b
+ b	e	16453	17106	 be
+e 	 
+e c	c
+e c	a	16650	17107	e ca
+ar	r
+arr	r
+arr	i	16652	17108	arri
+i	e	105	17109	ie
+ed	d
+ed 	 
+ed 	b	16780	17110	ed b
+b	y	98	17111	by
+y 	 
+y 	t	16491	17112	y t
+th	h
+the	e
+the 	 
+the p	p
+the p	r	16809	17113	the pr
+re	e
+res	s
+res	i	16691	17114	resi
+id	d
+ide	e
+iden	n
+iden	t	16812	17115	ident
+t 	 
+t 	a	16396	17116	t a
+at	t
+at	 	16432	17117	at 
+ a	a
+ a	l	16437	17118	 al
+ll	l
+ll 	 
+ll 	t	17074	17119	ll t
+ti	i
+ti	m	17055	17120	tim
+me	e
+me	s	17067	17121	mes
+s.	.
+s.	I	16553	17122	s.I
+I	t	73	17123	It
+t 	 
+t i	i
+t i	s	16529	17124	t is
+s 	 
+s 	s	16400	17125	s s
+se	e
+se	p	16664	17126	sep
+pa	a
+pa	r	16973	17127	par
+ra	a
+ra	t	17064	17128	rat
+te	e
+te	 	16427	17129	te 
+ t	t
+ to	o
+ to 	 
+ to 	t	16781	17130	 to t
+th	h
+the	e
+the 	 
+the 	f	16731	17131	the f
+fo	o
+foo	o
+foot	t
+footb	b
+footba	a
+footba	l	16898	17132	footbal
+ll	l
+ll	.	16551	17133	ll.
+.I	I
+.If	f
+.If	 	16879	17134	.If 
+ t	t
+ th	h
+ the	e
+ the 	 
+ the 	p	16559	17135	 the p
+pr	r
+pre	e
+pre	s	16810	17136	pres
+si	i
+sid	d
+side	e
+side	n	16747	17137	siden
+nt	t
+nt 	 
+nt 	w	16667	17138	nt w
+we	e
+we	r	16592	17139	wer
+re	e
+re 	 
+re 	t	16784	17140	re t
+to	o
+to	 	16570	17141	to 
+ o	o
+ o	r	16419	17142	 or
+rd	d
+rd	e	17088	17143	rde
+er	r
+er 	 
+er 	a	16593	17144	er a
+a 	 
+a 	s	16418	17145	a s
+st	t
+st	r	16822	17146	str
+ri	i
+ri	k	16464	17147	rik
+k	e	107	17148	ke
+e,	,
+e,	 	16723	17149	e, 
+ h	h
+ he	e
+ he	 	16459	17150	 he 
+ w	w
+ w	o	16401	17151	 wo
+ou	u
+ou	l	16866	17152	oul
+ld	d
+ld	 	16832	17153	ld 
+ 	u	32	17154	 u
+us	s
+us	e	16821	17155	use
+e 	 
+e 	t	16386	17156	e t
+th	h
+the	e
+the 	 
+the 	c	16731	17157	the c
+co	o
+cod	d
+cod	e	17095	17158	code
+es	s
+es 	 
+es 	t	16458	17159	es t
+to	o
+to 	 
+to 	i	17141	17160	to i
+id	d
+ide	e
+iden	n
+ident	t
+ident	i	17115	17161	identi
+i	f	105	17162	if
+f	y	102	17163	fy
+y 	 
+y 	h	16491	17164	y h
+hi	i
+him	m
+him	s	16863	17165	hims
+se	e
+se	l	16664	17166	sel
+l	f	108	17167	lf
+f 	 
+f t	t
+f t	o	16880	17168	f to
+o 	 
+o 	t	16669	17169	o t
+th	h
+the	e
+the 	 
+the 	m	16731	17170	the m
+mi	i
+mi	l	16644	17171	mil
+li	i
+li	t	16613	17172	lit
+ta	a
+ta	r	17039	17173	tar
+ry	y
+ry	.	16653	17174	ry.
+.A	A
+.A	f	16699	17175	.Af
+ft	t
+ft	e	16701	17176	fte
+er	r
+er 	 
+er 	t	16593	17177	er t
+ta	a
+ta	k	17039	17178	tak
+ki	i
+kin	n
+kin	g	17002	17179	king
+g 	 
+g 	o	16467	17180	g o
+of	f
+of	f	16716	17181	off
+fi	i
+fi	c	16720	17182	fic
+ce	e
+ce	,	16722	17183	ce,
+, 	 
+, 	A	16527	17184	, A
+A	B	65	17185	AB
+B	C	66	17186	BC
+C	 	67	17187	C 
+ N	N
+ N	e	16408	17188	 Ne
+e	w	101	17189	ew
+w	s	119	17190	ws
+s 	 
+s a	a
+s a	s	16541	17191	s as
+s	k	115	17192	sk
+ke	e
+ke	d	17148	17193	ked
+d 	 
+d 	M	16407	17194	d M
+Mr	r
+Mr 	 
+Mr T	T
+Mr T	r	16843	17195	Mr Tr
+ru	u
+rum	m
+rum	p	16675	17196	rump
+p 	 
+p 	h	16708	17197	p h
+ho	o
+ho	w	16583	17198	how
+w	 	119	17199	w 
+ i	i
+ it	t
+ it	 	16528	17200	 it 
+ f	f
+ f	e	16782	17201	 fe
+e	l	101	17202	el
+l	t	108	17203	lt
+t 	 
+t t	t
+t t	o	16830	17204	t to
+o 	 
+o 	r	16669	17205	o r
+re	e
+rec	c
+rec	e	17025	17206	rece
+e	i	101	17207	ei
+i	v	105	17208	iv
+ve	e
+ve 	 
+ve 	"	16619	17209	ve "
+"	t	34	17210	"t
+th	h
+the	e
+the 	 
+the 	b	16731	17211	the b
+bi	i
+bis	s
+bis	c	17080	17212	bisc
+cu	u
+cui	i
+cui	t	17082	17213	cuit
+t	"	116	17214	t"
+".	.
+".	"	16770	17215	"."
+"	W	34	17216	"W
+Wh	h
+Wh	e	16555	17217	Whe
+en	n
+en	 	16394	17218	en 
+ t	t
+ th	h
+ the	e
+ the	y	16510	17219	 they
+y 	 
+y 	e	16491	17220	y e
+ex	x
+ex	p	16826	17221	exp
+pl	l
+pla	a
+pla	i	16846	17222	plai
+in	n
+in 	 
+in 	w	16798	17223	in w
+wh	h
+wh	a	16840	17224	wha
+at	t
+at 	 
+at 	i	17117	17225	at i
+it	t
+it	 	16425	17226	it 
+ 	r	32	17227	 r
+re	e
+re	p	16389	17228	rep
+pr	r
+pre	e
+pres	s
+pres	e	17136	17229	prese
+en	n
+en	t	16394	17230	ent
+t	s	116	17231	ts
+s	,	115	17232	s,
+, 	 
+, a	a
+, a	n	16642	17233	, an
+nd	d
+nd 	 
+nd t	t
+nd t	h	16925	17234	nd th
+he	e
+he 	 
+he 	k	16434	17235	he k
+ki	i
+kin	n
+kin	d	17002	17236	kind
+d 	 
+d 	o	16407	17237	d o
+of	f
+of 	 
+of 	d	17029	17238	of d
+de	e
+des	s
+des	t	16985	17239	dest
+t	r	116	17240	tr
+ru	u
+ru	c	16604	17241	ruc
+ct	t
+ct	i	17026	17242	cti
+io	o
+ion	n
+ion	 	17056	17243	ion 
+ t	t
+ th	h
+ tha	a
+ tha	t	16837	17244	 that
+t 	 
+t y	y
+t y	o	16639	17245	t yo
+ou	u
+ou	'	16866	17246	ou'
+'	r	39	17247	'r
+re	e
+re 	 
+re t	t
+re t	a	17140	17248	re ta
+al	l
+al	k	16550	17249	alk
+ki	i
+kin	n
+king	g
+king	 	17179	17250	king 
+ a	a
+ a	b	16437	17251	 ab
+bo	o
+bo	u	16966	17252	bou
+ut	t
+ut	,	16447	17253	ut,
+, 	 
+, 	i	16527	17254	, i
+it	t
+it 	 
+it 	i	17226	17255	it i
+is	s
+is 	 
+is a	a
+is a	 	17085	17256	is a 
+ 	v	32	17257	 v
+ve	e
+ver	r
+ver	y	16804	17258	very
+y 	 
+y 	s	16491	17259	y s
+s	o	115	17260	so
+o	b	111	17261	ob
+be	e
+be	r	16906	17262	ber
+ri	i
+ri	n	16464	17263	rin
+ng	g
+ng	 	16466	17264	ng 
+ m	m
+ m	o	16493	17265	 mo
+om	m
+om	e	16498	17266	ome
+en	n
+ent	t
+ent	,	17230	17267	ent,
+,	"	44	17268	,"
+" 	 
+" 	h	16450	17269	" h
+he	e
+he 	 
+he 	s	16434	17270	he s
+s	a	115	17271	sa
+ai	i
+aid	d
+aid	.	17046	17272	aid.
+.	"	46	17273	."
+"	I	34	17274	"I
+It	t
+It	'	17123	17275	It'
+'s	s
+'s 	 
+'s 	v	16745	17276	's v
+ve	e
+ver	r
+very	y
+very	,	17258	17277	very,
+, 	 
+, 	v	16527	17278	, v
+ve	e
+ver	r
+very	y
+very	 	17258	17279	very 
+ s	s
+ s	c	16746	17280	 sc
+ca	a
+car	r
+car	y	17087	17281	cary
+y	,	121	17282	y,
+, 	 
+, i	i
+, i	n	17254	17283	, in
+n 	 
+n a	a
+n a 	 
+n a 	s	16874	17284	n a s
+se	e
+se	n	16664	17285	sen
+ns	s
+ns	e	16482	17286	nse
+e.	.
+e.	"	16748	17287	e."
+"	A	34	17288	"A
+A	 	65	17289	A 
+ f	f
+ fo	o
+ fo	r	16858	17290	 for
+rm	m
+rme	e
+rme	r	17022	17291	rmer
+r 	 
+r 	m	16429	17292	r m
+mi	i
+mil	l
+mil	i	17171	17293	mili
+it	t
+ita	a
+ita	r	16646	17294	itar
+ry	y
+ry	 	16653	17295	ry 
+ a	a
+ ai	i
+ ai	d	16648	17296	 aid
+de	e
+de	 	16393	17297	de 
+ t	t
+ to	o
+ to 	 
+ to 	B	16781	17298	 to B
+Bi	i
+Bi	l	17012	17299	Bil
+ll	l
+ll 	 
+ll 	C	17074	17300	ll C
+C	l	67	17301	Cl
+li	i
+li	n	16613	17302	lin
+nt	t
+nt	o	16395	17303	nto
+on	n
+on	,	16420	17304	on,
+, 	 
+, 	R	16527	17305	, R
+R	o	82	17306	Ro
+ob	b
+ob	e	17261	17307	obe
+er	r
+ert	t
+ert	 	16829	17308	ert 
+ "	"
+ "	B	16563	17309	 "B
+B	u	66	17310	Bu
+u	z	117	17311	uz
+z	z	122	17312	zz
+z	"	122	17313	z"
+" 	 
+" 	P	16450	17314	" P
+P	a	80	17315	Pa
+at	t
+at	t	16432	17316	att
+te	e
+ter	r
+ter	s	16702	17317	ters
+so	o
+so	n	17260	17318	son
+n	,	110	17319	n,
+, 	 
+, 	c	16527	17320	, c
+cl	l
+cl	a	16442	17321	cla
+ai	i
+ai	m	16726	17322	aim
+me	e
+me	d	17067	17323	med
+d 	 
+d M	M
+d M	r	17194	17324	d Mr
+r 	 
+r 	C	16429	17325	r C
+Cl	l
+Cl	i	17301	17326	Cli
+in	n
+int	t
+int	o	16912	17327	into
+on	n
+on 	 
+on 	l	16476	17328	on l
+lo	o
+lo	s	16860	17329	los
+st	t
+st	 	16822	17330	st 
+ t	t
+ th	h
+ the	e
+ the 	 
+ the 	c	16559	17331	 the c
+co	o
+cod	d
+code	e
+code	s	17158	17332	codes
+s 	 
+s w	w
+s w	h	16969	17333	s wh
+hi	i
+hi	l	16556	17334	hil
+le	e
+le 	 
+le 	p	16558	17335	le p
+pr	r
+pre	e
+pres	s
+pres	i	17136	17336	presi
+id	d
+ide	e
+iden	n
+ident	t
+ident	.	17115	17337	ident.
+.M	M
+.M	r	16518	17338	.Mr
+r 	 
+r 	P	16429	17339	r P
+Pa	a
+Pa	t	17315	17340	Pat
+tt	t
+tt	e	16426	17341	tte
+er	r
+er	s	16428	17342	ers
+so	o
+son	n
+son	 	17318	17343	son 
+ s	s
+ sa	a
+ sa	i	17045	17344	 sai
+id	d
+id	 	16392	17345	id 
+ 	M	32	17346	 M
+Mr	r
+Mr 	 
+Mr 	C	16742	17347	Mr C
+Cl	l
+Cli	i
+Cli	n	17326	17348	Clin
+nt	t
+nto	o
+nto	n	17303	17349	nton
+n 	 
+n 	w	16421	17350	n w
+w	o	119	17351	wo
+ou	u
+oul	l
+oul	d	17152	17352	ould
+d 	 
+d 	k	16407	17353	d k
+ke	e
+ke	e	17148	17354	kee
+ep	p
+ep	 	16890	17355	ep 
+ t	t
+ th	h
+ the	e
+ the 	 
+ the 	b	16559	17356	 the b
+bi	i
+bis	s
+bisc	c
+bisc	u	17212	17357	biscu
+ui	i
+ui	t	16539	17358	uit
+t 	 
+t i	i
+t i	n	16529	17359	t in
+n 	 
+n 	h	16421	17360	n h
+hi	i
+hi	s	16556	17361	his
+s 	 
+s t	t
+s t	r	16808	17362	s tr
+ro	o
+ro	u	16865	17363	rou
+us	s
+use	e
+use	r	17155	17364	user
+r 	 
+r p	p
+r p	o	16977	17365	r po
+oc	c
+oc	k	16931	17366	ock
+ke	e
+ke	t	17148	17367	ket
+t 	 
+t 	-	16396	17368	t -
+- 	 
+- 	a	16452	17369	- a
+at	t
+att	t
+att	a	17316	17370	atta
+a	c	97	17371	ac
+ch	h
+ch	e	16506	17372	che
+ed	d
+ed 	 
+ed 	t	16780	17373	ed t
+to	o
+to 	 
+to 	h	17141	17374	to h
+hi	i
+his	s
+his	 	17361	17375	his 
+ c	c
+ c	r	16496	17376	 cr
+re	e
+re	d	16389	17377	red
+di	i
+di	t	16908	17378	dit
+t 	 
+t 	c	16396	17379	t c
+ca	a
+car	r
+car	d	17087	17380	card
+d	s	100	17381	ds
+s 	 
+s w	w
+s w	i	16969	17382	s wi
+it	t
+it	h	16425	17383	ith
+h 	 
+h 	a	16413	17384	h a
+a 	 
+a 	r	16418	17385	a r
+ru	u
+ru	b	16604	17386	rub
+b	b	98	17387	bb
+be	e
+ber	r
+ber	 	17262	17388	ber 
+ b	b
+ b	a	16453	17389	 ba
+an	n
+and	d
+and	.	16729	17390	and.
+.O	O
+.O	n	16626	17391	.On
+n 	 
+n 	t	16421	17392	n t
+th	h
+the	e
+the 	 
+the m	m
+the m	o	17170	17393	the mo
+or	r
+or	n	16410	17394	orn
+ni	i
+ni	n	17093	17395	nin
+ng	g
+ng 	 
+ng 	t	17264	17396	ng t
+th	h
+the	e
+the 	 
+the 	L	16731	17397	the L
+L	e	76	17398	Le
+ew	w
+ew	i	17189	17399	ewi
+in	n
+ins	s
+ins	k	16893	17400	insk
+k	y	107	17401	ky
+y 	 
+y s	s
+y s	c	17259	17402	y sc
+ca	a
+ca	n	16651	17403	can
+nd	d
+nd	a	16543	17404	nda
+al	l
+al	 	16550	17405	al 
+ b	b
+ br	r
+ br	o	16732	17406	 bro
+ok	k
+ok	e	16710	17407	oke
+e,	,
+e, 	 
+e, 	M	17149	17408	e, M
+Mr	r
+Mr 	 
+Mr C	C
+Mr C	l	17347	17409	Mr Cl
+li	i
+lin	n
+lin	t	17302	17410	lint
+to	o
+ton	n
+ton	 	16921	17411	ton 
+ a	a
+ a	d	16437	17412	 ad
+d	m	100	17413	dm
+mi	i
+mi	t	16644	17414	mit
+tt	t
+tte	e
+tte	d	17341	17415	tted
+d 	 
+d 	h	16407	17416	d h
+he	e
+he 	 
+he 	h	16434	17417	he h
+ha	a
+ha	d	16398	17418	had
+d	n	100	17419	dn
+n	'	110	17420	n'
+'	t	39	17421	't
+t 	 
+t 	s	16396	17422	t s
+se	e
+se	e	16664	17423	see
+en	n
+en 	 
+en 	t	17218	17424	en t
+th	h
+the	e
+the 	 
+the c	c
+the c	o	17157	17425	the co
+o	d	111	17426	od
+de	e
+des	s
+des	 	16985	17427	des 
+ f	f
+ fo	o
+ for	r
+ for	 	17290	17428	 for 
+ s	s
+ s	o	16746	17429	 so
+om	m
+ome	e
+ome	 	17266	17430	ome 
+ t	t
+ t	i	16430	17431	 ti
+i	m	105	17432	im
+me	e
+me	,	17067	17433	me,
+, 	 
+, a	a
+, a	c	16642	17434	, ac
+c	c	99	17435	cc
+co	o
+co	r	16497	17436	cor
+rd	d
+rd	i	17088	17437	rdi
+in	n
+ing	g
+ing 	 
+ing 	t	16509	17438	ing t
+to	o
+to 	 
+to 	M	17141	17439	to M
+Mr	r
+Mr 	 
+Mr 	P	16742	17440	Mr P
+Pa	a
+Pat	t
+Pat	t	17340	17441	Patt
+te	e
+ter	r
+ters	s
+ters	o	17317	17442	terso
+on	n
+on	.	16420	17443	on.
+.A	A
+.A	n	16699	17444	.An
+no	o
+not	t
+not	h	16610	17445	noth
+he	e
+her	r
+her	 	16916	17446	her 
+ t	t
+ to	o
+ to	p	16668	17447	 top
+p	-	112	17448	p-
+-	r	45	17449	-r
+ra	a
+ra	n	17064	17450	ran
+n	k	110	17451	nk
+ki	i
+kin	n
+king	g
+king 	 
+king 	o	17250	17452	king o
+of	f
+off	f
+off	i	17181	17453	offi
+ic	c
+ice	e
+ice	r	17043	17454	icer
+r 	 
+r 	-	16429	17455	r -
+- 	 
+- 	G	16452	17456	- G
+G	e	71	17457	Ge
+en	n
+en	e	16394	17458	ene
+er	r
+era	a
+era	l	16615	17459	eral
+l 	 
+l 	H	16857	17460	l H
+H	u	72	17461	Hu
+ug	g
+ug	h	16681	17462	ugh
+h 	 
+h 	S	16413	17463	h S
+S	h	83	17464	Sh
+he	e
+he	l	16385	17465	hel
+lt	t
+lt	o	17203	17466	lto
+on	n
+on 	 
+on 	-	16476	17467	on -
+- 	 
+- a	a
+- a	l	17369	17468	- al
+ls	s
+ls	o	16552	17469	lso
+o 	 
+o 	c	16669	17470	o c
+cl	l
+cla	a
+cla	i	17321	17471	clai
+im	m
+im	e	17432	17472	ime
+ed	d
+ed 	 
+ed 	M	16780	17473	ed M
+Mr	r
+Mr 	 
+Mr C	C
+Mr Cl	l
+Mr Cl	i	17409	17474	Mr Cli
+in	n
+int	t
+into	o
+into	n	17327	17475	inton
+n 	 
+n 	l	16421	17476	n l
+lo	o
+los	s
+los	t	17329	17477	lost
+t 	 
+t t	t
+t t	h	16830	17478	t th
+he	e
+he 	 
+he 	b	16434	17479	he b
+bi	i
+bis	s
+bisc	c
+biscu	u
+biscu	i	17357	17480	biscui
+it	t
+it 	 
+it 	f	17226	17481	it f
+fo	o
+for	r
+for	 	17021	17482	for 
+ "	"
+ "	m	16563	17483	 "m
+mo	o
+mo	n	16494	17484	mon
+nt	t
+nt	h	16395	17485	nth
+h	s	104	17486	hs
+s	"	115	17487	s"
+".	.
+".	U	16770	17488	".U
+US	S
+US	 	16786	17489	US 
+ n	n
+ nu	u
+ nu	c	16788	17490	 nuc
+cl	l
+cle	e
+clea	a
+clea	r	16764	17491	clear
+r 	 
+r 	c	16429	17492	r c
+co	o
+cod	d
+code	e
+codes	s
+codes	 	17332	17493	codes 
+ 	'	32	17494	 '
+'	w	39	17495	'w
+we	e
+wen	n
+wen	t	16666	17496	went
+t 	 
+t 	m	16396	17497	t m
+mi	i
+mi	s	16644	17498	mis
+s	s	115	17499	ss
+si	i
+sin	n
+sin	g	16524	17500	sing
+g	'	103	17501	g'
+'	O	39	17502	'O
+On	n
+On	l	16627	17503	Onl
+ly	y
+ly	 	16490	17504	ly 
+ t	t
+ th	h
+ the	e
+ the 	 
+ the p	p
+ the p	r	17135	17505	 the pr
+re	e
+res	s
+resi	i
+resi	d	17114	17506	resid
+de	e
+den	n
+den	t	16693	17507	dent
+t 	 
+t c	c
+t c	a	17379	17508	t ca
+an	n
+an	 	16542	17509	an 
+ 	l	32	17510	 l
+la	a
+la	u	16637	17511	lau
+un	n
+un	c	16481	17512	unc
+ch	h
+ch 	 
+ch 	n	17099	17513	ch n
+nu	u
+nuc	c
+nucl	l
+nucle	e
+nucle	a	16896	17514	nuclea
+ar	r
+ar 	 
+ar 	s	16567	17515	ar s
+st	t
+str	r
+str	i	17146	17516	stri
+i	k	105	17517	ik
+ke	e
+ke	s	17148	17518	kes
+s.	.
+s.	O	16553	17519	s.O
+On	n
+On	c	16627	17520	Onc
+ce	e
+ce	 	16722	17521	ce 
+ h	h
+ he	e
+ he 	 
+ he 	h	17150	17522	 he h
+ha	a
+ha	s	16398	17523	has
+s 	 
+s i	i
+s i	d	16678	17524	s id
+de	e
+den	n
+dent	t
+dent	i	17507	17525	denti
+if	f
+if	i	17162	17526	ifi
+ie	e
+ie	d	17109	17527	ied
+d 	 
+d h	h
+d h	i	17416	17528	d hi
+im	m
+im	s	17432	17529	ims
+se	e
+sel	l
+sel	f	17166	17530	self
+f,	,
+f,	 	16852	17531	f, 
+ h	h
+ he	e
+ he 	 
+ he 	p	17150	17532	 he p
+pa	a
+pa	s	16973	17533	pas
+ss	s
+ss	e	17499	17534	sse
+es	s
+es 	 
+es 	h	16458	17535	es h
+hi	i
+his	s
+his 	 
+his 	o	17375	17536	his o
+or	r
+or	d	16410	17537	ord
+de	e
+de	r	16393	17538	der
+r 	 
+r 	t	16429	17539	r t
+to	o
+to 	 
+to 	t	17141	17540	to t
+th	h
+the	e
+the 	 
+the 	C	16731	17541	the C
+C	h	67	17542	Ch
+ha	a
+ha	i	16398	17543	hai
+ir	r
+ir	m	16463	17544	irm
+ma	a
+ma	n	16697	17545	man
+n 	 
+n 	o	16421	17546	n o
+of	f
+of 	 
+of 	t	17029	17547	of t
+th	h
+the	e
+the 	 
+the 	J	16731	17548	the J
+J	o	74	17549	Jo
+o	i	111	17550	oi
+in	n
+int	t
+int	 	16912	17551	int 
+ 	C	32	17552	 C
+Ch	h
+Ch	i	17542	17553	Chi
+ie	e
+ie	f	17109	17554	ief
+f	s	102	17555	fs
+s 	 
+s 	o	16400	17556	s o
+of	f
+of 	 
+of 	S	17029	17557	of S
+S	t	83	17558	St
+ta	a
+ta	f	17039	17559	taf
+ff	f
+ff	.	16719	17560	ff.
+. 	 
+. 	T	16771	17561	. T
+Th	h
+The	e
+The 	 
+The 	c	17078	17562	The c
+ch	h
+ch	a	16506	17563	cha
+ai	i
+ai	r	16726	17564	air
+rm	m
+rm	a	16942	17565	rma
+an	n
+an 	 
+an 	i	17509	17566	an i
+is	s
+is 	 
+is 	t	16756	17567	is t
+th	h
+the	e
+the 	 
+the 	h	16731	17568	the h
+hi	i
+hi	g	16556	17569	hig
+gh	h
+gh	e	16903	17570	ghe
+es	s
+es	t	16390	17571	est
+t	-	116	17572	t-
+-r	r
+-r	a	17449	17573	-ra
+an	n
+an	k	16542	17574	ank
+ki	i
+kin	n
+king	g
+king 	 
+king 	U	17250	17575	king U
+US	S
+US 	 
+US 	m	17489	17576	US m
+mi	i
+mil	l
+mili	i
+mili	t	17293	17577	milit
+ta	a
+tar	r
+tar	y	17173	17578	tary
+y 	 
+y 	o	16491	17579	y o
+of	f
+off	f
+offi	i
+offi	c	17453	17580	offic
+ce	e
+ce	r	16722	17581	cer
+r.	.
+r.	T	16597	17582	r.T
+Th	h
+The	e
+The 	 
+The 	o	17078	17583	The o
+or	r
+ord	d
+ord	e	17537	17584	orde
+er	r
+er 	 
+er t	t
+er t	h	17177	17585	er th
+he	e
+hen	n
+hen	 	16841	17586	hen 
+ 	g	32	17587	 g
+go	o
+go	e	16850	17588	goe
+es	s
+es 	 
+es t	t
+es t	o	17159	17589	es to
+o 	 
+o t	t
+o t	h	17169	17590	o th
+he	e
+he 	 
+he 	U	16434	17591	he U
+US	S
+US 	 
+US 	S	17489	17592	US S
+St	t
+St	r	17558	17593	Str
+ra	a
+rat	t
+rat	e	17128	17594	rate
+e	g	101	17595	eg
+gi	i
+gi	c	16508	17596	gic
+c 	 
+c 	C	16885	17597	c C
+C	o	67	17598	Co
+om	m
+omm	m
+omm	a	16956	17599	omma
+an	n
+and	d
+and	 	16729	17600	and 
+ H	H
+ H	Q	17033	17601	 HQ
+Q	 	81	17602	Q 
+ i	i
+ in	n
+ in	 	16873	17603	 in 
+ 	O	32	17604	 O
+Of	f
+Of	f	17041	17605	Off
+f	u	102	17606	fu
+ut	t
+utt	t
+utt	 	16569	17607	utt 
+ A	A
+ A	i	16923	17608	 Ai
+ir	r
+ir	b	16463	17609	irb
+ba	a
+ba	s	16549	17610	bas
+se	e
+se	,	16664	17611	se,
+, 	 
+, 	N	16527	17612	, N
+N	e	78	17613	Ne
+e	b	101	17614	eb
+br	r
+br	a	16752	17615	bra
+as	s
+as	k	16399	17616	ask
+k	a	107	17617	ka
+a.	.
+a.	T	16698	17618	a.T
+Th	h
+The	e
+The	y	16750	17619	They
+y 	 
+y t	t
+y t	h	17112	17620	y th
+he	e
+hen	n
+hen 	 
+hen 	p	17586	17621	hen p
+pa	a
+pas	s
+pas	s	17533	17622	pass
+s 	 
+s i	i
+s i	t	16678	17623	s it
+t 	 
+t t	t
+t to	o
+t to	 	17204	17624	t to 
+ "	"
+ "	o	16563	17625	 "o
+on	n
+on 	 
+on t	t
+on t	h	16961	17626	on th
+he	e
+he 	 
+he 	g	16434	17627	he g
+g	r	103	17628	gr
+ro	o
+rou	u
+rou	n	17363	17629	roun
+nd	d
+nd	"	16543	17630	nd"
+" 	 
+" 	t	16450	17631	" t
+te	e
+te	a	16427	17632	tea
+a	m	97	17633	am
+m	s	109	17634	ms
+s 	 
+s 	(	16400	17635	s (
+(	a	40	17636	(a
+al	l
+al	t	16550	17637	alt
+th	h
+th	o	16412	17638	tho
+ou	u
+ou	g	16866	17639	oug
+gh	h
+gh	 	16903	17640	gh 
+ t	t
+ th	h
+ the	e
+ the	s	16510	17641	 thes
+se	e
+se 	 
+se 	m	16872	17642	se m
+ma	a
+ma	y	16697	17643	may
+y 	 
+y 	b	16491	17644	y b
+be	e
+be	 	16906	17645	be 
+ a	a
+ a	t	16437	17646	 at
+t 	 
+t s	s
+t s	e	17422	17647	t se
+ea	a
+ea	,	16417	17648	ea,
+, 	 
+, o	o
+, o	r	17071	17649	, or
+r 	 
+r 	u	16429	17650	r u
+un	n
+und	d
+und	e	16867	17651	unde
+er	r
+er 	 
+er 	w	16593	17652	er w
+wa	a
+wa	t	16402	17653	wat
+te	e
+ter	r
+ter	)	16702	17654	ter)
+)	.	41	17655	).
+.T	T
+.Th	h
+.The	e
+.The	 	16980	17656	.The 
+ o	o
+ or	r
+ or	d	17142	17657	 ord
+de	e
+der	r
+der	 	17538	17658	der 
+ t	t
+ to	o
+ to 	 
+ to 	f	16781	17659	 to f
+fi	i
+fir	r
+fir	e	16783	17660	fire
+e 	 
+e i	i
+e is	s
+e is	 	16927	17661	e is 
+ t	t
+ t	r	16430	17662	 tr
+ra	a
+ran	n
+ran	s	17450	17663	rans
+s	m	115	17664	sm
+mi	i
+mit	t
+mit	t	17414	17665	mitt
+te	e
+ted	d
+ted	 	16913	17666	ted 
+ v	v
+ v	i	17257	17667	 vi
+i	a	105	17668	ia
+a 	 
+a c	c
+a c	o	17086	17669	a co
+od	d
+od	e	17426	17670	ode
+es	s
+es 	 
+es 	-	16458	17671	es -
+- 	 
+- 	w	16452	17672	- w
+wh	h
+wh	i	16840	17673	whi
+ic	c
+ic	h	16721	17674	ich
+h 	 
+h 	m	16413	17675	h m
+mu	u
+mu	s	16957	17676	mus
+st	t
+st 	 
+st 	m	17330	17677	st m
+ma	a
+ma	t	16697	17678	mat
+t	c	116	17679	tc
+ch	h
+ch 	 
+ch 	c	17099	17680	ch c
+co	o
+cod	d
+code	e
+codes	s
+codes 	 
+codes 	l	17493	17681	codes l
+lo	o
+lo	c	16860	17682	loc
+ck	k
+ck	e	16932	17683	cke
+ed	d
+ed 	 
+ed 	i	16780	17684	ed i
+in	n
+in 	 
+in 	t	16798	17685	in t
+th	h
+the	e
+the 	 
+the 	l	16731	17686	the l
+la	a
+lau	u
+lau	n	17511	17687	laun
+n	c	110	17688	nc
+ch	h
+ch 	 
+ch 	t	17099	17689	ch t
+te	e
+tea	a
+tea	m	17632	17690	team
+m	'	109	17691	m'
+'s	s
+'s 	 
+'s s	s
+'s s	a	16814	17692	's sa
+a	f	97	17693	af
+f	e	102	17694	fe
+es	s
+es	.	16390	17695	es.
+.T	T
+.Th	h
+.The	e
+.The 	 
+.The 	p	17656	17696	.The p
+pr	r
+pre	e
+pres	s
+presi	i
+presi	d	17336	17697	presid
+de	e
+den	n
+dent	t
+dent	 	17507	17698	dent 
+ i	i
+ is	s
+ is 	 
+ is 	c	16594	17699	 is c
+co	o
+co	m	16497	17700	com
+m	m	109	17701	mm
+ma	a
+man	n
+man	d	17545	17702	mand
+de	e
+der	r
+der	-	17538	17703	der-
+-	i	45	17704	-i
+in	n
+in	-	16465	17705	in-
+-	c	45	17706	-c
+ch	h
+ch	i	16506	17707	chi
+ie	e
+ief	f
+ief	 	17554	17708	ief 
+ o	o
+ of	f
+ of	 	16718	17709	 of 
+ t	t
+ th	h
+ the	e
+ the 	 
+ the 	U	16559	17710	 the U
+US	S
+US 	 
+US m	m
+US m	i	17576	17711	US mi
+il	l
+ili	i
+ilit	t
+ilit	a	17038	17712	ilita
+ar	r
+ary	y
+ary	.	16635	17713	ary.
+. 	 
+. I	I
+. I	n	17004	17714	. In
+n 	 
+n s	s
+n s	h	16581	17715	n sh
+ho	o
+ho	r	16583	17716	hor
+rt	t
+rt	,	16411	17717	rt,
+, 	 
+, w	w
+, wh	h
+, wh	a	17097	17718	, wha
+at	t
+at 	 
+at 	h	17117	17719	at h
+he	e
+he 	 
+he s	s
+he s	a	17270	17720	he sa
+ay	y
+ay	s	16847	17721	ays
+s,	,
+s,	 	17232	17722	s, 
+ g	g
+ g	o	17587	17723	 go
+oe	e
+oe	s	16457	17724	oes
+s.	.
+s.	B	16553	17725	s.B
+Bu	u
+Bu	t	17310	17726	But
+t 	 
+t t	t
+t th	h
+t th	e	17478	17727	t the
+er	r
+er	e	16428	17728	ere
+e 	 
+e i	i
+e is	s
+e is 	 
+e is 	-	17661	17729	e is -
+- 	 
+- 	p	16452	17730	- p
+po	o
+pos	s
+pos	s	17103	17731	poss
+si	i
+si	b	16391	17732	sib
+bl	l
+bl	y	16883	17733	bly
+y 	 
+y -	-
+y - 	 
+y - 	s	17019	17734	y - s
+so	o
+so	m	17260	17735	som
+me	e
+me	 	17067	17736	me 
+ l	l
+ l	e	17510	17737	 le
+ee	e
+ee	w	16889	17738	eew
+wa	a
+wa	y	16402	17739	way
+y.	.
+y.	I	16878	17740	y.I
+In	n
+In 	 
+In 	N	17005	17741	In N
+No	o
+No	v	16409	17742	Nov
+ve	e
+ve	m	16534	17743	vem
+m	b	109	17744	mb
+be	e
+ber	r
+ber	,	17262	17745	ber,
+, 	 
+, 	f	16527	17746	, f
+fo	o
+for	r
+for 	 
+for 	t	17482	17747	for t
+th	h
+the	e
+the 	 
+the f	f
+the f	i	17131	17748	the fi
+ir	r
+ir	s	16463	17749	irs
+st	t
+st 	 
+st 	t	17330	17750	st t
+ti	i
+tim	m
+tim	e	17120	17751	time
+e 	 
+e i	i
+e i	n	16755	17752	e in
+n 	 
+n 	4	16421	17753	n 4
+4	0	52	17754	40
+0 	 
+0 	y	16630	17755	0 y
+ye	e
+ye	a	16640	17756	yea
+ar	r
+ar	s	16403	17757	ars
+s,	,
+s, 	 
+s, 	C	17722	17758	s, C
+Co	o
+Co	n	17598	17759	Con
+ng	g
+ng	r	16466	17760	ngr
+re	e
+res	s
+res	s	16691	17761	ress
+s 	 
+s 	e	16400	17762	s e
+ex	x
+ex	a	16826	17763	exa
+am	m
+am	i	17633	17764	ami
+in	n
+in	e	16465	17765	ine
+ed	d
+ed 	 
+ed t	t
+ed t	h	17373	17766	ed th
+he	e
+he 	 
+he 	p	16434	17767	he p
+pr	r
+pre	e
+pres	s
+presi	i
+presid	d
+presid	e	17697	17768	preside
+en	n
+ent	t
+ent	'	17230	17769	ent'
+'s	s
+'s 	 
+'s 	a	16745	17770	's a
+au	u
+au	t	16680	17771	aut
+th	h
+tho	o
+tho	r	17638	17772	thor
+ri	i
+ri	t	16464	17773	rit
+t	y	116	17774	ty
+y 	 
+y t	t
+y t	o	17112	17775	y to
+o 	 
+o 	l	16669	17776	o l
+la	a
+lau	u
+laun	n
+laun	c	17687	17777	launc
+ch	h
+ch 	 
+ch 	a	17099	17778	ch a
+a 	 
+a 	n	16418	17779	a n
+nu	u
+nuc	c
+nucl	l
+nucle	e
+nuclea	a
+nuclea	r	17514	17780	nuclear
+r 	 
+r 	a	16429	17781	r a
+at	t
+att	t
+atta	a
+atta	c	17370	17782	attac
+ck	k
+ck	.	16932	17783	ck.
+.O	O
+.On	n
+.On	e	17391	17784	.One
+e 	 
+e 	o	16386	17785	e o
+of	f
+of 	 
+of t	t
+of t	h	17547	17786	of th
+he	e
+he 	 
+he 	e	16434	17787	he e
+ex	x
+exp	p
+exp	e	17221	17788	expe
+er	r
+ert	t
+ert	s	16829	17789	erts
+s 	 
+s w	w
+s w	a	16969	17790	s wa
+as	s
+as 	 
+as 	C	16436	17791	as C
+C 	 
+C 	R	17187	17792	C R
+Ro	o
+Ro	b	17306	17793	Rob
+be	e
+ber	r
+ber	t	17262	17794	bert
+t 	 
+t 	K	16396	17795	t K
+K	e	75	17796	Ke
+e	h	101	17797	eh
+h	l	104	17798	hl
+le	e
+le	r	16443	17799	ler
+r	,	114	17800	r,
+, 	 
+, c	c
+, c	o	17320	17801	, co
+om	m
+omm	m
+omma	a
+omma	n	17599	17802	omman
+nd	d
+nd	e	16543	17803	nde
+er	r
+er 	 
+er 	o	16593	17804	er o
+of	f
+of 	 
+of t	t
+of th	h
+of th	e	17786	17805	of the
+e 	 
+e 	U	16386	17806	e U
+US	S
+US 	 
+US S	S
+US S	t	17592	17807	US St
+tr	r
+tr	a	17240	17808	tra
+at	t
+at	e	16432	17809	ate
+eg	g
+eg	i	17595	17810	egi
+ic	c
+ic	 	16721	17811	ic 
+ C	C
+ C	o	17552	17812	 Co
+om	m
+omm	m
+omma	a
+omman	n
+omman	d	17802	17813	ommand
+d 	 
+d f	f
+d f	r	16544	17814	d fr
+ro	o
+ro	m	16865	17815	rom
+m 	 
+m 	2	16562	17816	m 2
+20	0
+20	1	16629	17817	201
+1	1	49	17818	11
+1	-	49	17819	1-
+-	1	45	17820	-1
+1	3	49	17821	13
+3	.	51	17822	3.
+.	H	46	17823	.H
+H	e	72	17824	He
+e 	 
+e t	t
+e t	o	17156	17825	e to
+ol	l
+ol	d	16532	17826	old
+d 	 
+d t	t
+d th	h
+d th	e	16868	17827	d the
+e 	 
+e c	c
+e co	o
+e co	m	16955	17828	e com
+mm	m
+mm	i	17701	17829	mmi
+it	t
+it	t	16425	17830	itt
+te	e
+te	e	16427	17831	tee
+e 	 
+e t	t
+e t	h	17156	17832	e th
+ha	a
+ha	t	16398	17833	hat
+t,	,
+t, 	 
+t, 	a	16823	17834	t, a
+as	s
+as 	 
+as t	t
+as t	r	16761	17835	as tr
+ra	a
+ra	i	17064	17836	rai
+in	n
+ine	e
+ine	d	17765	17837	ined
+d,	,
+d,	 	16951	17838	d, 
+ h	h
+ he	e
+ he 	 
+ he 	w	17150	17839	 he w
+wo	o
+wo	u	17351	17840	wou
+ul	l
+ul	d	17016	17841	uld
+d 	 
+d f	f
+d fo	o
+d fo	l	16989	17842	d fol
+ll	l
+ll	o	16551	17843	llo
+ow	w
+ow	 	16579	17844	ow 
+ t	t
+ th	h
+ the	e
+ the 	 
+ the p	p
+ the pr	r
+ the pr	e	17505	17845	 the pre
+es	s
+esi	i
+esi	d	16811	17846	esid
+de	e
+den	n
+dent	t
+dent	'	17507	17847	dent'
+'s	s
+'s 	 
+'s 	n	16745	17848	's n
+nu	u
+nuc	c
+nucl	l
+nucle	e
+nuclea	a
+nuclear	r
+nuclear	 	17780	17849	nuclear 
+ o	o
+ or	r
+ ord	d
+ ord	e	17657	17850	 orde
+er	r
+er 	 
+er 	-	16593	17851	er -
+- 	 
+- 	b	16452	17852	- b
+bu	u
+but	t
+but	 	16454	17853	but 
+ o	o
+ o	n	16419	17854	 on
+n	l	110	17855	nl
+ly	y
+ly 	 
+ly 	i	17504	17856	ly i
+if	f
+if	 	17162	17857	if 
+ i	i
+ it	t
+ it 	 
+ it 	w	17200	17858	 it w
+we	e
+wer	r
+wer	e	17139	17859	were
+e 	 
+e 	l	16386	17860	e l
+le	e
+le	g	16443	17861	leg
+g	a	103	17862	ga
+al	l
+al	.	16550	17863	al.
+.	U	46	17864	.U
+U	n	85	17865	Un
+nd	d
+nde	e
+nde	r	17803	17866	nder
+r 	 
+r c	c
+r c	e	17492	17867	r ce
+er	r
+ert	t
+ert	a	16829	17868	erta
+ai	i
+ain	n
+ain	 	17092	17869	ain 
+ c	c
+ c	i	16496	17870	 ci
+ir	r
+ir	c	16463	17871	irc
+cu	u
+cu	m	16538	17872	cum
+ms	s
+ms	t	17634	17873	mst
+ta	a
+ta	n	17039	17874	tan
+nc	c
+nc	e	17688	17875	nce
+es	s
+es	,	16390	17876	es,
+, 	 
+, 	h	16527	17877	, h
+he	e
+he 	 
+he e	e
+he e	x	17787	17878	he ex
+xp	p
+xp	l	16827	17879	xpl
+la	a
+la	i	16637	17880	lai
+in	n
+ine	e
+ined	d
+ined	:	17837	17881	ined:
+:	 	58	17882	: 
+ "	"
+ "	I	16563	17883	 "I
+I	 	73	17884	I 
+ w	w
+ wo	o
+ wo	u	17151	17885	 wou
+ul	l
+uld	d
+uld	 	17841	17886	uld 
+ h	h
+ ha	a
+ hav	v
+ hav	e	16618	17887	 have
+e 	 
+e 	s	16386	17888	e s
+sa	a
+sa	i	17271	17889	sai
+id	d
+id 	 
+id 	'	17345	17890	id '
+'	I	39	17891	'I
+I	'	73	17892	I'
+'	m	39	17893	'm
+m 	 
+m 	n	16562	17894	m n
+no	o
+not	t
+not	 	16610	17895	not 
+ r	r
+ r	e	17227	17896	 re
+ea	a
+ead	d
+ead	y	16950	17897	eady
+y 	 
+y t	t
+y to	o
+y to	 	17775	17898	y to 
+ p	p
+ p	r	16387	17899	 pr
+ro	o
+ro	c	16865	17900	roc
+ce	e
+ce	e	16722	17901	cee
+ed	d
+ed	.	16406	17902	ed.
+.	'	46	17903	.'
+'	"	39	17904	'"
+"	O	34	17905	"O
+On	n
+On	e	16627	17906	One
+e 	 
+e s	s
+e s	e	17888	17907	e se
+en	n
+en	a	16394	17908	ena
+at	t
+ato	o
+ato	r	17051	17909	ator
+r 	 
+r a	a
+r a	s	17781	17910	r as
+sk	k
+sk	e	17192	17911	ske
+ed	d
+ed	:	16406	17912	ed:
+: 	 
+: 	"	17882	17913	: "
+"	T	34	17914	"T
+Th	h
+The	e
+The	n	16750	17915	Then
+n 	 
+n w	w
+n w	h	17350	17916	n wh
+ha	a
+hat	t
+hat	 	17833	17917	hat 
+ h	h
+ ha	a
+ ha	p	16435	17918	 hap
+pp	p
+pp	e	17102	17919	ppe
+en	n
+en	s	16394	17920	ens
+s	?	115	17921	s?
+?	"	63	17922	?"
+" 	 
+" 	M	16450	17923	" M
+Mr	r
+Mr 	 
+Mr 	K	16742	17924	Mr K
+Ke	e
+Ke	h	17796	17925	Keh
+hl	l
+hl	e	17798	17926	hle
+er	r
+er 	 
+er a	a
+er a	d	17144	17927	er ad
+dm	m
+dm	i	17413	17928	dmi
+it	t
+itt	t
+itt	e	17830	17929	itte
+ed	d
+ed:	:
+ed:	 	17912	17930	ed: 
+ "	"
+ "I	I
+ "I	 	17883	17931	 "I 
+ d	d
+ do	o
+ don	n
+ don	'	17075	17932	 don'
+'t	t
+'t	 	17421	17933	't 
+ k	k
+ k	n	16757	17934	 kn
+no	o
+no	w	16578	17935	now
+w	.	119	17936	w.
+."	"
+."	T	17273	17937	."T
+Th	h
+The	e
+The 	 
+The c	c
+The c	o	17562	17938	The co
+om	m
+omm	m
+omm	i	16956	17939	ommi
+it	t
+itt	t
+itte	e
+itte	e	17929	17940	ittee
+e 	 
+e l	l
+e l	a	17860	17941	e la
+au	u
+au	g	16680	17942	aug
+gh	h
+ghe	e
+ghe	d	17570	17943	ghed
+d 	 
+d i	i
+d i	n	16892	17944	d in
+n 	 
+n 	r	16421	17945	n r
+re	e
+res	s
+res	p	16691	17946	resp
+po	o
+pon	n
+pon	s	16793	17947	pons
+se	e
+se	.	16664	17948	se.
+.	C	46	17949	.C
+C	a	67	17950	Ca
+an	n
+an 	 
+an 	U	17509	17951	an U
+US	S
+US 	 
+US 	g	17489	17952	US g
+ge	e
+ge	n	16944	17953	gen
+ne	e
+ne	r	16405	17954	ner
+ra	a
+ra	l	17064	17955	ral
+ls	s
+ls	 	16552	17956	ls 
+ s	s
+ sa	a
+ sa	y	17045	17957	 say
+y 	 
+y 	'	16491	17958	y '
+'	n	39	17959	'n
+no	o
+no	'	16578	17960	no'
+'	 	39	17961	' 
+ t	t
+ to	o
+ to 	 
+ to 	a	16781	17962	 to a
+a 	 
+a n	n
+a n	u	17779	17963	a nu
+uc	c
+ucl	l
+ucle	e
+ucle	a	16789	17964	uclea
+ar	r
+ar 	 
+ar s	s
+ar s	t	17515	17965	ar st
+tr	r
+tr	i	17240	17966	tri
+ik	k
+ik	e	17517	17967	ike
+e?	?
+e?	S	16460	17968	e?S
+S	e	83	17969	Se
+en	n
+ena	a
+ena	t	17908	17970	enat
+te	e
+te 	 
+te 	q	17129	17971	te q
+qu	u
+qu	e	16992	17972	que
+es	s
+est	t
+est	i	17571	17973	esti
+io	o
+ion	n
+ion	s	17056	17974	ions
+s 	 
+s 	T	16400	17975	s T
+Tr	r
+Tru	u
+Trum	m
+Trum	p	16844	17976	Trump
+p	'	112	17977	p'
+'s	s
+'s 	 
+'s n	n
+'s n	u	17848	17978	's nu
+uc	c
+ucl	l
+ucle	e
+uclea	a
+uclea	r	17964	17979	uclear
+r 	 
+r p	p
+r po	o
+r po	w	17365	17980	r pow
+we	e
+wer	r
+wer	s	17139	17981	wers
+s	EOF!	115

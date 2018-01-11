@@ -28,6 +28,4 @@ code = next((value for key, value in dict.items() if key == 'a'), None)
 
 #print("0"+"1"+"0")
 
-print(sys.getsizeof("helo hello"))
-print(bin(124))
-print(sys.getsizeof(bin(124)))
+print(len(str(bin(12))))

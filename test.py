@@ -1,31 +1,12 @@
-import sys
+import os
 
-def init_dict():
-    ascii_dict = dict()
-    ascii_in_number = range(1,4048)
-    for each_char in ascii_in_number:
-        ascii_dict[each_char] = chr(int(hex(each_char),16))
-    print("Status: Initialized ascii table.")
-    dictionary = ascii_dict
-    return(dictionary)
+test_folder = "text//"
+test_list = os.listdir(test_folder)
+sumary = open(os.path.join("sumary.txt"),"w",encoding='utf-8')
+sumary.write("id\tname\tfize size\tword count\tchar count\n")
+for each_test in range(0, len(test_list)):
+    test_file = open(os.path.join(test_folder,test_list[each_test]),"r",encoding='utf-8')
+    test_content = test_file.read()
+    sumary.write(str(each_test)+"\t"+test_list[each_test]+"\t"+str(os.path.getsize(os.path.join(test_folder,test_list[each_test])))+"\t"+str(len(test_content.split(" ")))+"\t"+str(len(test_content))+"\n")
 
-#dictionary = init_dict()
-
-#for key, value in dictionary.items():
-#    print(str(key)+"\t"+str(value)+"\n")
-
-#print(chr(int("0x20AC",16)))
-
-#print(int("0x20AC",16))
-
-dict = {'a':1}
-dict['a'] = 2
-dict.update({'b':1})
-
-code = next((value for key, value in dict.items() if key == 'a'), None)
-
-#print(dict)
-
-#print("0"+"1"+"0")
-
-print(len(str(bin(12))))
+sumary.close()

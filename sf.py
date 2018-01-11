@@ -1,7 +1,7 @@
 import os
 
 
-def init_prob_table(source_content_list):
+def init_stat_table(source_content_list):
     """
     :param source_content:
     :return:
@@ -55,7 +55,7 @@ def compress(source):
     source_content = source.read()
     article_name = source.name[6:-4]
     source_content_list = list(source_content)
-    sf_recursive(dict_table,init_prob_table(source_content_list), "")
+    sf_recursive(dict_table,init_stat_table(source_content_list), "")
     output_dict = open(os.path.join("data","sf",article_name + "-dictionary.txt"),"w",encoding="utf-8")
     output_binary = open(os.path.join("data","sf",article_name + "-binary.txt"),"w",encoding="utf-8")
     #print(output_dict)

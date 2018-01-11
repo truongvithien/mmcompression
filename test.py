@@ -1,3 +1,5 @@
+import sys
+
 def init_dict():
     ascii_dict = dict()
     ascii_in_number = range(1,4048)
@@ -7,11 +9,25 @@ def init_dict():
     dictionary = ascii_dict
     return(dictionary)
 
-dictionary = init_dict()
+#dictionary = init_dict()
 
-for key, value in dictionary.items():
-    print(str(key)+"\t"+str(value)+"\n")
+#for key, value in dictionary.items():
+#    print(str(key)+"\t"+str(value)+"\n")
 
-print(chr(int("0x20AC",16)))
+#print(chr(int("0x20AC",16)))
 
-print(int("0x20AC",16))
+#print(int("0x20AC",16))
+
+dict = {'a':1}
+dict['a'] = 2
+dict.update({'b':1})
+
+code = next((value for key, value in dict.items() if key == 'a'), None)
+
+#print(dict)
+
+#print("0"+"1"+"0")
+
+print(sys.getsizeof("helo hello"))
+print(bin(124))
+print(sys.getsizeof(bin(124)))

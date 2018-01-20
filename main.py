@@ -10,18 +10,18 @@ def run_test (algorithm):
     if algorithm == "lzw":
         for each_test in range(0,len(test_list)):
             print("Status: running test ",test_list[each_test])
-            source_file = open(os.path.join(test_folder,test_list[each_test]),"r",encoding='utf-8')
-            lzw.compress(source_file)
-            code_file = open(os.path.join("data","lzw",test_list[each_test][:-4]+"-decimal.txt"),"r",encoding="utf-8")
-            lzw.decompress(code_file)
+            source_file_dir = os.path.join(test_folder,test_list[each_test])
+            lzw.compress(source_file_dir)
+            code_file_dir = os.path.join("data","lzw",test_list[each_test][:-4]+"-decimal.txt")
+            lzw.decompress(code_file_dir)
     elif algorithm == 'sf':
         for each_test in range(0,len(test_list)):
             print("Status: running test ",test_list[each_test])
-            source_file = open(os.path.join(test_folder,test_list[each_test]),"r",encoding='utf-8')
+            source_file = os.path.join(test_folder,test_list[each_test])
             sf.compress(source_file)
-            dict_file = open(os.path.join("data","sf",test_list[each_test][:-4]+"-dictionary.txt"),"r",encoding="utf-8")
-            code_file = open(os.path.join("data","sf",test_list[each_test][:-4]+"-binary.txt"),"r",encoding="utf-8")
-            sf.decompress(dict_file, code_file)
+            dict_file_dir = os.path.join("data","sf",test_list[each_test][:-4]+"-dictionary.txt")
+            code_file_dir = os.path.join("data","sf",test_list[each_test][:-4]+"-binary.txt")
+            sf.decompress(dict_file_dir, code_file_dir)
 
 def compare(algorithm):
     if algorithm == "lzw":
@@ -106,7 +106,7 @@ def compression_ratio(algorithm):
         output_cr_sf.close()
 
 def main():
-    algorithms = ["lzw","sf"]
+    algorithms = ["lzw"]
     for each_algorithm in algorithms:
         run_test(each_algorithm)
         compare(each_algorithm)

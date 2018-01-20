@@ -15,12 +15,13 @@ def init_dict():
 
 def compress(source):
     dictionary = init_dict()
-    source_content = source.read()
+    source_file = open(source,"r",encoding='utf-8')
+    source_content = source_file.read()
     lists = list(source_content)
     id = 0
     s = lists[0]
     output_code = list()
-    article_name = source.name[6:-4]
+    article_name = source_file.name[6:-4]
     output_table_dictionary = open(os.path.join("data","lzw",article_name + "-table-dictionary.txt"),"w",encoding="utf-8")
     output_table_work = open(os.path.join("data","lzw",article_name + "-table-work.txt"),"w",encoding="utf-8")
     output_decimal = open(os.path.join("data","lzw",article_name + "-decimal.txt"),"w",encoding="utf-8")
@@ -75,11 +76,12 @@ def compress(source):
     return output_code
 
 def decompress(code):
-    print(code.name)
-    article_name = code.name[9:-12]
+    code_file = open(code,"r",encoding='utf-8')
+    code_content = code_file.read()
+    print(code_file.name)
+    article_name = code_file.name[9:-12]
     output_string = list()
     dictionary = init_dict()
-    code_content = code.read()
     lists = code_content.split(" ")
     dictionary_len = len(dictionary)
     output_decode = open(os.path.join("data","lzw",article_name + "-decoded.txt"),"w",encoding="utf-8")

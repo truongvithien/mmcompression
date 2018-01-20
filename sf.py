@@ -51,9 +51,10 @@ def sf_recursive(dict_table, string_list, root_code):
         sf_recursive(dict_table,string_list_right, root_code + "0")
 
 def compress(source):
+    source_file = open(source,"r",encoding='utf-8')
+    source_content = source_file.read()
     dict_table = {}
-    source_content = source.read()
-    article_name = source.name[6:-4]
+    article_name = source_file.name[6:-4]
     source_content_list = list(source_content)
     sf_recursive(dict_table,init_stat_table(source_content_list), "")
     output_dict = open(os.path.join("data","sf",article_name + "-dictionary.txt"),"w",encoding="utf-8")
@@ -72,9 +73,11 @@ def compress(source):
     return dict_table, output_code
 
 def decompress(dictionary, code):
-    dict_content_list = dictionary.read().split("\t")
-    code_content_list = code.read().split(" ")
-    article_name = code.name[8:-11]
+    dict_file = open(dictionary,"r",encoding='utf-8')
+    code_file = open(code,"r",encoding='utf-8')
+    dict_content_list = dict_file.read().split("\t")
+    code_content_list = code_file.read().split(" ")
+    article_name = code_file.name[8:-11]
     output_string = ""
     for each_bin in range(len(code_content_list)-1):
         output_string += dict_content_list[dict_content_list.index(code_content_list[each_bin])-1]
